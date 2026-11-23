@@ -1,0 +1,3001 @@
+counterparty_id,segment,sector,region,onboarding_month,annual_review_month
+CP02827,Mid-corporate,Transport & logistics,Rabat-Sale-Kenitra,2021-01,10
+CP01704,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP00807,Large corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,1
+CP00962,Mid-corporate,Business services,Casablanca-Settat,2021-01,4
+CP02118,SME,Construction,Casablanca-Settat,2021-01,12
+CP00666,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,5
+CP00126,Mid-corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-12,3
+CP02557,Mid-corporate,Manufacturing,Fez-Meknes,2021-01,8
+CP01011,SME,Construction,Marrakech-Safi,2021-01,3
+CP00770,SME,Business services,Fez-Meknes,2021-01,2
+CP01446,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,10
+CP01245,Property developer,Real estate development,Marrakech-Safi,2021-01,2
+CP00360,Mid-corporate,Business services,Casablanca-Settat,2021-01,11
+CP00163,Large corporate,Business services,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP02134,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP02107,SME,Business services,Casablanca-Settat,2022-06,9
+CP00012,Mid-corporate,Real estate services,Casablanca-Settat,2023-09,3
+CP02464,SME,Construction,Fez-Meknes,2021-01,5
+CP01316,Large corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,5
+CP02656,Mid-corporate,Manufacturing,Oriental,2021-01,7
+CP02365,Mid-corporate,Wholesale & retail trade,Other regions,2022-11,6
+CP01813,SME,Business services,Souss-Massa,2021-01,3
+CP00184,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP00128,Property developer,Real estate development,Fez-Meknes,2023-10,3
+CP00824,Mid-corporate,Wholesale & retail trade,Fez-Meknes,2021-01,1
+CP02552,SME,Manufacturing,Fez-Meknes,2021-01,8
+CP01696,SME,Manufacturing,Casablanca-Settat,2021-01,6
+CP01975,SME,Transport & logistics,Casablanca-Settat,2021-01,2
+CP00109,SME,Agriculture & agrifood,Souss-Massa,2021-01,4
+CP02303,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,9
+CP02594,Mid-corporate,Business services,Casablanca-Settat,2021-01,4
+CP01521,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-06,5
+CP01875,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP00116,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP02565,SME,Real estate services,Other regions,2021-01,9
+CP02982,SME,Business services,Fez-Meknes,2021-01,5
+CP01337,SME,Agriculture & agrifood,Souss-Massa,2021-01,6
+CP01941,SME,Construction,Casablanca-Settat,2021-01,11
+CP02739,SME,Manufacturing,Casablanca-Settat,2021-01,11
+CP00867,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2023-03,1
+CP02695,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,11
+CP01985,Large corporate,Energy & utilities,Casablanca-Settat,2021-01,11
+CP02980,Mid-corporate,Business services,Marrakech-Safi,2021-01,12
+CP02523,SME,Wholesale & retail trade,Other regions,2021-01,4
+CP02209,Large corporate,Business services,Rabat-Sale-Kenitra,2022-05,7
+CP00797,Large corporate,Real estate services,Casablanca-Settat,2021-01,1
+CP01698,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP00557,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,7
+CP02190,Mid-corporate,Energy & utilities,Casablanca-Settat,2021-01,3
+CP00090,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,3
+CP01828,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,4
+CP00584,SME,Construction,Rabat-Sale-Kenitra,2021-01,6
+CP01294,Mid-corporate,Agriculture & agrifood,Fez-Meknes,2021-01,2
+CP00952,Mid-corporate,Business services,Casablanca-Settat,2021-01,10
+CP01567,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,9
+CP01707,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,10
+CP02089,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP00663,Mid-corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,8
+CP00841,SME,Manufacturing,Fez-Meknes,2021-01,5
+CP01674,SME,Manufacturing,Souss-Massa,2021-01,12
+CP00628,Mid-corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP01261,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,6
+CP00032,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,5
+CP00515,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,1
+CP02075,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP00334,Mid-corporate,Wholesale & retail trade,Fez-Meknes,2021-01,10
+CP01146,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,9
+CP01943,SME,Manufacturing,Casablanca-Settat,2021-01,3
+CP01740,SME,Business services,Casablanca-Settat,2021-01,12
+CP02937,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP02036,SME,Construction,Souss-Massa,2021-01,3
+CP02638,SME,Real estate services,Casablanca-Settat,2022-12,1
+CP00379,Large corporate,Transport & logistics,Casablanca-Settat,2021-01,4
+CP00688,SME,Business services,Casablanca-Settat,2023-10,4
+CP02408,SME,Transport & logistics,Fez-Meknes,2021-01,10
+CP00219,SME,Energy & utilities,Rabat-Sale-Kenitra,2021-01,4
+CP00686,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP01869,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,4
+CP02355,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,7
+CP00478,Mid-corporate,Manufacturing,Fez-Meknes,2021-01,8
+CP02419,Mid-corporate,Manufacturing,Casablanca-Settat,2022-03,10
+CP00943,SME,Manufacturing,Casablanca-Settat,2021-01,10
+CP02956,Large corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2022-07,11
+CP02777,SME,Business services,Casablanca-Settat,2021-01,12
+CP00065,SME,Business services,Casablanca-Settat,2021-01,2
+CP01102,SME,Wholesale & retail trade,Fez-Meknes,2021-01,2
+CP00345,Mid-corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,6
+CP02911,SME,Wholesale & retail trade,Casablanca-Settat,2021-04,2
+CP00060,SME,Tourism & hospitality,Casablanca-Settat,2021-01,6
+CP01879,SME,Energy & utilities,Marrakech-Safi,2021-01,8
+CP00385,SME,Transport & logistics,Casablanca-Settat,2021-01,4
+CP01106,Mid-corporate,Energy & utilities,Casablanca-Settat,2021-01,2
+CP01922,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2023-05,12
+CP00605,SME,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP00891,SME,Wholesale & retail trade,Other regions,2021-01,11
+CP00484,Mid-corporate,Construction,Casablanca-Settat,2021-01,8
+CP02882,SME,Construction,Casablanca-Settat,2021-01,8
+CP01915,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,10
+CP00153,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP00276,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP01421,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,12
+CP00046,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,9
+CP02461,SME,Real estate services,Fez-Meknes,2021-01,4
+CP02133,Property developer,Real estate development,Fez-Meknes,2021-01,8
+CP00023,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-10,5
+CP01957,Mid-corporate,Business services,Oriental,2023-06,11
+CP00117,SME,Wholesale & retail trade,Other regions,2021-01,7
+CP01367,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,4
+CP01684,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP00061,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2023-07,10
+CP00765,SME,Wholesale & retail trade,Casablanca-Settat,2021-07,5
+CP00598,SME,Manufacturing,Casablanca-Settat,2021-01,10
+CP02198,SME,Business services,Casablanca-Settat,2021-01,3
+CP02212,Mid-corporate,Agriculture & agrifood,Oriental,2021-01,3
+CP00910,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP00454,Large corporate,Agriculture & agrifood,Marrakech-Safi,2022-11,8
+CP00812,Mid-corporate,Manufacturing,Casablanca-Settat,2021-11,1
+CP01344,Mid-corporate,Business services,Casablanca-Settat,2021-10,9
+CP01073,SME,Wholesale & retail trade,Fez-Meknes,2021-01,4
+CP02059,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP02344,Mid-corporate,Manufacturing,Casablanca-Settat,2022-12,6
+CP01145,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,6
+CP01177,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP00256,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,6
+CP00643,SME,Manufacturing,Casablanca-Settat,2021-01,4
+CP01695,SME,Manufacturing,Casablanca-Settat,2021-01,10
+CP00450,SME,Tourism & hospitality,Casablanca-Settat,2021-08,7
+CP02804,SME,Manufacturing,Casablanca-Settat,2021-01,1
+CP00964,SME,Business services,Rabat-Sale-Kenitra,2021-01,8
+CP00832,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,7
+CP01719,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,7
+CP02912,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP01705,Mid-corporate,Construction,Marrakech-Safi,2021-01,6
+CP00625,SME,Construction,Casablanca-Settat,2021-01,8
+CP00614,Mid-corporate,Business services,Casablanca-Settat,2021-01,9
+CP02887,SME,Business services,Casablanca-Settat,2021-01,9
+CP02811,Property developer,Real estate development,Oriental,2021-01,12
+CP00344,SME,Construction,Casablanca-Settat,2021-01,7
+CP01837,Mid-corporate,Business services,Casablanca-Settat,2021-01,6
+CP01493,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,7
+CP02425,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP01282,SME,Manufacturing,Casablanca-Settat,2021-01,4
+CP00821,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP01087,Mid-corporate,Construction,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP02947,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP02540,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP02774,SME,Business services,Marrakech-Safi,2021-01,12
+CP02168,SME,Business services,Casablanca-Settat,2021-01,2
+CP02431,SME,Transport & logistics,Souss-Massa,2021-01,5
+CP00037,SME,Manufacturing,Marrakech-Safi,2021-01,10
+CP00523,Large corporate,Construction,Fez-Meknes,2022-09,6
+CP01358,Property developer,Real estate development,Marrakech-Safi,2021-01,8
+CP00728,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,9
+CP00166,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,11
+CP00248,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,3
+CP00944,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2022-01,4
+CP01239,SME,Construction,Rabat-Sale-Kenitra,2022-06,6
+CP01168,Mid-corporate,Construction,Casablanca-Settat,2021-01,7
+CP00294,Mid-corporate,Energy & utilities,Casablanca-Settat,2021-01,11
+CP02877,Mid-corporate,Wholesale & retail trade,Souss-Massa,2022-12,1
+CP00255,SME,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP01930,Property developer,Real estate development,Rabat-Sale-Kenitra,2022-10,11
+CP00553,SME,Manufacturing,Casablanca-Settat,2021-01,8
+CP01854,SME,Business services,Rabat-Sale-Kenitra,2022-12,9
+CP02906,Mid-corporate,Agriculture & agrifood,Souss-Massa,2021-01,3
+CP00030,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP00052,Large corporate,Construction,Tangier-Tetouan-Al Hoceima,2023-09,5
+CP01636,Large corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,9
+CP01435,SME,Construction,Casablanca-Settat,2021-12,2
+CP00435,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP01474,SME,Real estate services,Other regions,2021-01,8
+CP01035,SME,Business services,Rabat-Sale-Kenitra,2021-01,8
+CP01654,SME,Business services,Casablanca-Settat,2021-01,11
+CP00320,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,10
+CP01925,SME,Business services,Rabat-Sale-Kenitra,2021-01,1
+CP00406,SME,Construction,Other regions,2021-01,2
+CP01340,SME,Transport & logistics,Marrakech-Safi,2021-01,5
+CP00660,Property developer,Real estate development,Casablanca-Settat,2021-01,12
+CP00953,Property developer,Real estate development,Casablanca-Settat,2021-01,6
+CP01353,Mid-corporate,Tourism & hospitality,Rabat-Sale-Kenitra,2021-09,11
+CP00340,Property developer,Real estate development,Casablanca-Settat,2021-01,1
+CP02766,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,12
+CP01867,SME,Tourism & hospitality,Fez-Meknes,2021-01,1
+CP01621,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP00740,Mid-corporate,Construction,Casablanca-Settat,2022-07,11
+CP01082,Mid-corporate,Construction,Marrakech-Safi,2021-01,4
+CP02723,SME,Business services,Marrakech-Safi,2021-01,4
+CP00211,SME,Transport & logistics,Casablanca-Settat,2021-01,7
+CP01372,Mid-corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP01560,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP02362,Property developer,Real estate development,Fez-Meknes,2021-01,3
+CP02095,SME,Construction,Casablanca-Settat,2021-01,10
+CP02357,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP00122,Large corporate,Business services,Rabat-Sale-Kenitra,2021-01,2
+CP02439,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,11
+CP00387,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,11
+CP02317,Mid-corporate,Agriculture & agrifood,Marrakech-Safi,2021-01,11
+CP00789,Large corporate,Construction,Casablanca-Settat,2021-01,3
+CP01611,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,9
+CP02221,SME,Real estate services,Other regions,2021-01,2
+CP00428,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,3
+CP01303,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,1
+CP00461,SME,Energy & utilities,Rabat-Sale-Kenitra,2021-01,6
+CP00224,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,9
+CP02460,SME,Energy & utilities,Casablanca-Settat,2021-01,3
+CP01817,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP01071,SME,Construction,Casablanca-Settat,2021-03,4
+CP00103,Mid-corporate,Construction,Casablanca-Settat,2021-01,3
+CP03000,SME,Manufacturing,Casablanca-Settat,2021-01,10
+CP02441,SME,Construction,Fez-Meknes,2022-09,3
+CP01244,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP01829,Mid-corporate,Business services,Marrakech-Safi,2021-01,4
+CP00059,SME,Business services,Casablanca-Settat,2021-01,3
+CP01604,Large corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00516,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,3
+CP02622,Mid-corporate,Business services,Casablanca-Settat,2022-09,6
+CP02149,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,7
+CP02062,SME,Construction,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP00337,Property developer,Real estate development,Casablanca-Settat,2023-04,6
+CP02349,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,3
+CP00241,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,6
+CP02624,SME,Transport & logistics,Casablanca-Settat,2021-01,1
+CP00709,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,6
+CP02214,Property developer,Real estate development,Casablanca-Settat,2021-01,5
+CP02466,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,5
+CP01904,Property developer,Real estate development,Casablanca-Settat,2021-01,2
+CP02337,SME,Business services,Rabat-Sale-Kenitra,2021-01,12
+CP02751,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,1
+CP00777,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,2
+CP02463,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,2
+CP01787,SME,Wholesale & retail trade,Souss-Massa,2021-01,12
+CP01189,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,4
+CP01283,Property developer,Real estate development,Fez-Meknes,2022-02,6
+CP00603,Mid-corporate,Construction,Casablanca-Settat,2021-01,10
+CP02490,Property developer,Real estate development,Casablanca-Settat,2021-01,1
+CP01494,Large corporate,Manufacturing,Casablanca-Settat,2021-01,1
+CP01627,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,3
+CP01149,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP00206,SME,Wholesale & retail trade,Fez-Meknes,2021-01,12
+CP02085,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,8
+CP00773,Large corporate,Energy & utilities,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP02596,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,11
+CP00280,SME,Energy & utilities,Casablanca-Settat,2023-07,4
+CP00654,SME,Wholesale & retail trade,Marrakech-Safi,2021-12,3
+CP00521,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,2
+CP01425,Large corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP01586,Mid-corporate,Wholesale & retail trade,Souss-Massa,2021-01,9
+CP02726,SME,Transport & logistics,Oriental,2021-01,11
+CP01110,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2023-10,7
+CP01207,SME,Tourism & hospitality,Casablanca-Settat,2021-01,12
+CP01377,Mid-corporate,Real estate services,Fez-Meknes,2021-01,11
+CP00714,Large corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP02402,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2022-04,10
+CP02757,SME,Tourism & hospitality,Casablanca-Settat,2021-01,2
+CP02230,SME,Construction,Souss-Massa,2021-01,9
+CP01950,Mid-corporate,Transport & logistics,Souss-Massa,2021-01,12
+CP00501,Large corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP02734,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP01169,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,5
+CP01212,Mid-corporate,Construction,Casablanca-Settat,2021-01,3
+CP00846,SME,Construction,Souss-Massa,2021-01,9
+CP01242,Large corporate,Business services,Casablanca-Settat,2021-01,2
+CP02884,SME,Construction,Casablanca-Settat,2021-01,6
+CP01136,SME,Tourism & hospitality,Marrakech-Safi,2021-01,12
+CP00004,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,2
+CP02345,SME,Manufacturing,Fez-Meknes,2021-01,2
+CP02478,SME,Manufacturing,Casablanca-Settat,2021-01,12
+CP01873,SME,Business services,Fez-Meknes,2021-01,10
+CP00552,SME,Real estate services,Casablanca-Settat,2021-01,6
+CP01916,SME,Manufacturing,Casablanca-Settat,2021-01,5
+CP02965,SME,Real estate services,Rabat-Sale-Kenitra,2021-04,12
+CP02781,SME,Agriculture & agrifood,Casablanca-Settat,2021-06,9
+CP01327,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP02420,Mid-corporate,Business services,Casablanca-Settat,2021-01,2
+CP01861,Mid-corporate,Business services,Casablanca-Settat,2021-01,7
+CP02995,SME,Transport & logistics,Marrakech-Safi,2023-10,9
+CP00989,SME,Tourism & hospitality,Casablanca-Settat,2021-01,1
+CP00073,SME,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP02255,Large corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,1
+CP01958,Large corporate,Manufacturing,Casablanca-Settat,2021-01,11
+CP00825,SME,Business services,Marrakech-Safi,2021-01,9
+CP01849,SME,Construction,Casablanca-Settat,2021-01,3
+CP00047,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,7
+CP02283,SME,Construction,Casablanca-Settat,2023-02,2
+CP02295,Mid-corporate,Manufacturing,Fez-Meknes,2021-01,10
+CP01041,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-08,3
+CP00051,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,8
+CP00120,SME,Wholesale & retail trade,Oriental,2021-01,1
+CP00810,SME,Construction,Casablanca-Settat,2023-12,2
+CP01972,SME,Wholesale & retail trade,Souss-Massa,2021-10,12
+CP02527,Large corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,5
+CP01036,SME,Business services,Souss-Massa,2022-08,2
+CP01173,Property developer,Real estate development,Souss-Massa,2021-01,9
+CP02676,SME,Tourism & hospitality,Other regions,2021-01,3
+CP02444,Large corporate,Tourism & hospitality,Casablanca-Settat,2021-01,8
+CP02475,Property developer,Real estate development,Marrakech-Safi,2022-11,10
+CP01458,Property developer,Real estate development,Fez-Meknes,2021-01,9
+CP00471,Large corporate,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2023-01,3
+CP00492,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,3
+CP01405,Mid-corporate,Construction,Oriental,2021-01,3
+CP01214,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,8
+CP02391,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,9
+CP01175,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,7
+CP00607,SME,Real estate services,Casablanca-Settat,2021-01,5
+CP01514,Large corporate,Business services,Marrakech-Safi,2021-01,1
+CP00753,SME,Construction,Casablanca-Settat,2023-01,11
+CP00509,SME,Construction,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02026,Mid-corporate,Construction,Fez-Meknes,2021-01,8
+CP01338,SME,Agriculture & agrifood,Casablanca-Settat,2021-03,2
+CP01754,SME,Construction,Marrakech-Safi,2021-01,4
+CP02249,SME,Real estate services,Casablanca-Settat,2021-01,4
+CP01373,SME,Real estate services,Fez-Meknes,2021-01,8
+CP02528,SME,Tourism & hospitality,Oriental,2021-01,10
+CP02936,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,11
+CP00137,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP01469,SME,Construction,Rabat-Sale-Kenitra,2021-01,5
+CP00642,SME,Business services,Rabat-Sale-Kenitra,2023-03,5
+CP00235,Mid-corporate,Manufacturing,Marrakech-Safi,2021-05,9
+CP00581,SME,Construction,Rabat-Sale-Kenitra,2021-01,4
+CP01548,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2023-02,5
+CP00718,Property developer,Real estate development,Casablanca-Settat,2021-01,10
+CP01921,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,7
+CP01361,SME,Business services,Fez-Meknes,2021-01,6
+CP00815,SME,Transport & logistics,Casablanca-Settat,2021-12,9
+CP01885,Large corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-05,4
+CP01354,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,1
+CP01612,Large corporate,Wholesale & retail trade,Fez-Meknes,2021-01,10
+CP01430,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,6
+CP01275,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,4
+CP00013,SME,Manufacturing,Casablanca-Settat,2021-01,2
+CP02310,Mid-corporate,Real estate services,Rabat-Sale-Kenitra,2021-01,12
+CP02436,SME,Wholesale & retail trade,Oriental,2021-01,9
+CP02359,Mid-corporate,Construction,Rabat-Sale-Kenitra,2021-01,4
+CP02113,Large corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,8
+CP02484,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,6
+CP00389,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP00152,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,4
+CP01466,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,1
+CP01988,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP00457,Property developer,Real estate development,Marrakech-Safi,2021-01,12
+CP01027,SME,Wholesale & retail trade,Fez-Meknes,2021-01,11
+CP01277,Property developer,Real estate development,Souss-Massa,2022-10,4
+CP00710,Large corporate,Manufacturing,Souss-Massa,2021-01,12
+CP02928,Mid-corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,4
+CP01811,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,10
+CP02008,Mid-corporate,Business services,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP02547,Property developer,Real estate development,Oriental,2021-01,4
+CP02041,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,7
+CP00903,Mid-corporate,Business services,Rabat-Sale-Kenitra,2023-03,12
+CP01268,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP00497,Mid-corporate,Construction,Marrakech-Safi,2021-01,6
+CP01630,SME,Manufacturing,Souss-Massa,2021-01,11
+CP00645,Mid-corporate,Construction,Marrakech-Safi,2021-01,6
+CP01991,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,9
+CP00374,SME,Tourism & hospitality,Casablanca-Settat,2021-01,6
+CP01014,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,1
+CP02273,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,4
+CP01558,Mid-corporate,Tourism & hospitality,Oriental,2021-12,7
+CP00985,SME,Business services,Rabat-Sale-Kenitra,2021-01,1
+CP02020,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,3
+CP02446,Property developer,Real estate development,Casablanca-Settat,2021-01,12
+CP02201,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP01053,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,3
+CP02858,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,8
+CP02659,Mid-corporate,Wholesale & retail trade,Fez-Meknes,2021-01,7
+CP00619,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP00369,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,1
+CP02451,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,11
+CP01055,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,7
+CP00630,Property developer,Real estate development,Marrakech-Safi,2021-01,7
+CP02027,Mid-corporate,Energy & utilities,Souss-Massa,2021-01,1
+CP02000,SME,Construction,Casablanca-Settat,2021-11,3
+CP02074,SME,Transport & logistics,Other regions,2021-01,1
+CP00189,SME,Manufacturing,Marrakech-Safi,2021-01,12
+CP01273,SME,Tourism & hospitality,Casablanca-Settat,2021-01,10
+CP01791,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,7
+CP01650,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP01281,SME,Energy & utilities,Fez-Meknes,2021-01,2
+CP02785,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP02653,Mid-corporate,Real estate services,Rabat-Sale-Kenitra,2021-01,7
+CP02538,Mid-corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,7
+CP02514,Property developer,Real estate development,Fez-Meknes,2022-02,12
+CP01271,Mid-corporate,Energy & utilities,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP01157,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,6
+CP00892,SME,Manufacturing,Casablanca-Settat,2021-01,2
+CP02353,Property developer,Real estate development,Fez-Meknes,2021-01,6
+CP02388,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,4
+CP00971,Property developer,Real estate development,Casablanca-Settat,2021-01,6
+CP01931,SME,Wholesale & retail trade,Other regions,2021-01,9
+CP01857,Large corporate,Manufacturing,Casablanca-Settat,2021-01,4
+CP00481,Mid-corporate,Manufacturing,Casablanca-Settat,2022-12,1
+CP02234,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP01113,Mid-corporate,Real estate services,Casablanca-Settat,2021-04,9
+CP00659,Mid-corporate,Construction,Casablanca-Settat,2021-01,7
+CP00354,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP01537,SME,Energy & utilities,Marrakech-Safi,2021-01,11
+CP02776,Large corporate,Construction,Marrakech-Safi,2021-01,2
+CP02100,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP01959,SME,Business services,Rabat-Sale-Kenitra,2021-01,2
+CP02403,SME,Agriculture & agrifood,Fez-Meknes,2021-01,2
+CP02881,SME,Construction,Casablanca-Settat,2021-01,10
+CP00999,Property developer,Real estate development,Casablanca-Settat,2021-01,5
+CP01295,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2022-10,12
+CP00511,SME,Energy & utilities,Rabat-Sale-Kenitra,2021-01,1
+CP00678,Property developer,Real estate development,Casablanca-Settat,2021-01,7
+CP01633,Large corporate,Transport & logistics,Marrakech-Safi,2023-04,4
+CP02368,SME,Tourism & hospitality,Oriental,2021-01,12
+CP02056,Large corporate,Manufacturing,Casablanca-Settat,2021-01,9
+CP00849,SME,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP00650,Property developer,Real estate development,Casablanca-Settat,2021-11,4
+CP01940,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,11
+CP01839,Mid-corporate,Manufacturing,Marrakech-Safi,2021-01,11
+CP02459,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,10
+CP01413,Property developer,Real estate development,Oriental,2021-01,6
+CP00541,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,12
+CP01545,SME,Manufacturing,Casablanca-Settat,2023-08,9
+CP02716,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,1
+CP00648,Mid-corporate,Business services,Casablanca-Settat,2021-01,11
+CP00695,SME,Construction,Fez-Meknes,2021-01,1
+CP00468,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP00675,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,3
+CP02452,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,11
+CP02202,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP02235,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,10
+CP00239,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,9
+CP01768,Large corporate,Tourism & hospitality,Casablanca-Settat,2021-01,7
+CP01278,SME,Construction,Casablanca-Settat,2021-01,11
+CP02846,Large corporate,Transport & logistics,Casablanca-Settat,2021-01,4
+CP02902,SME,Energy & utilities,Rabat-Sale-Kenitra,2022-05,7
+CP01771,Large corporate,Transport & logistics,Casablanca-Settat,2022-09,4
+CP00517,Property developer,Real estate development,Casablanca-Settat,2021-01,2
+CP01148,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,11
+CP02856,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,6
+CP00349,Large corporate,Manufacturing,Souss-Massa,2021-01,1
+CP02122,SME,Construction,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP01363,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP02040,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2022-03,8
+CP00097,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP01089,Mid-corporate,Construction,Fez-Meknes,2021-01,11
+CP01750,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-05,9
+CP01932,Large corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,4
+CP00031,SME,Manufacturing,Souss-Massa,2021-01,4
+CP00583,Mid-corporate,Construction,Fez-Meknes,2021-01,12
+CP01947,SME,Wholesale & retail trade,Fez-Meknes,2023-11,12
+CP01522,SME,Transport & logistics,Casablanca-Settat,2021-12,9
+CP02986,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,1
+CP02989,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP00612,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-06,5
+CP01574,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2022-09,7
+CP02823,Mid-corporate,Transport & logistics,Marrakech-Safi,2021-01,11
+CP01307,SME,Business services,Casablanca-Settat,2021-01,11
+CP01312,Property developer,Real estate development,Casablanca-Settat,2021-06,4
+CP01375,Mid-corporate,Construction,Rabat-Sale-Kenitra,2021-01,2
+CP02246,SME,Construction,Casablanca-Settat,2021-01,4
+CP02051,SME,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP02109,SME,Business services,Marrakech-Safi,2021-01,11
+CP01198,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,1
+CP01986,SME,Energy & utilities,Marrakech-Safi,2021-01,10
+CP01579,Mid-corporate,Construction,Rabat-Sale-Kenitra,2021-01,8
+CP00982,Mid-corporate,Business services,Marrakech-Safi,2021-01,2
+CP01772,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,9
+CP02336,SME,Business services,Marrakech-Safi,2021-01,7
+CP02199,Property developer,Real estate development,Marrakech-Safi,2021-01,1
+CP01533,SME,Wholesale & retail trade,Casablanca-Settat,2021-12,3
+CP00702,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,5
+CP02767,Mid-corporate,Business services,Fez-Meknes,2021-01,3
+CP02668,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,7
+CP02741,Property developer,Real estate development,Marrakech-Safi,2021-01,8
+CP02526,SME,Wholesale & retail trade,Oriental,2021-08,3
+CP00448,SME,Real estate services,Fez-Meknes,2021-01,2
+CP00782,SME,Wholesale & retail trade,Casablanca-Settat,2021-10,8
+CP01279,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP01248,SME,Agriculture & agrifood,Other regions,2021-01,4
+CP01745,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,4
+CP02047,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,1
+CP01467,SME,Wholesale & retail trade,Casablanca-Settat,2023-07,11
+CP02038,SME,Transport & logistics,Marrakech-Safi,2021-01,11
+CP01258,Mid-corporate,Energy & utilities,Rabat-Sale-Kenitra,2022-06,7
+CP01569,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,5
+CP02568,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,3
+CP01662,SME,Wholesale & retail trade,Marrakech-Safi,2022-04,4
+CP02556,SME,Business services,Rabat-Sale-Kenitra,2021-01,12
+CP02280,Mid-corporate,Transport & logistics,Fez-Meknes,2021-01,2
+CP02509,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,10
+CP02169,SME,Business services,Other regions,2021-01,4
+CP02721,SME,Business services,Souss-Massa,2022-08,4
+CP00202,SME,Business services,Casablanca-Settat,2021-01,10
+CP02559,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP02914,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,12
+CP02367,Mid-corporate,Tourism & hospitality,Other regions,2021-01,4
+CP02272,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2023-12,8
+CP02242,Mid-corporate,Construction,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP00148,Mid-corporate,Transport & logistics,Fez-Meknes,2021-01,3
+CP01475,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,5
+CP00858,Mid-corporate,Manufacturing,Fez-Meknes,2021-01,1
+CP02793,SME,Transport & logistics,Casablanca-Settat,2023-11,2
+CP00036,SME,Business services,Rabat-Sale-Kenitra,2021-01,8
+CP00536,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,9
+CP02449,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP02294,SME,Transport & logistics,Rabat-Sale-Kenitra,2022-08,7
+CP02680,Mid-corporate,Wholesale & retail trade,Souss-Massa,2021-01,10
+CP02437,Property developer,Real estate development,Casablanca-Settat,2021-01,11
+CP02506,Property developer,Real estate development,Rabat-Sale-Kenitra,2022-07,7
+CP00188,SME,Agriculture & agrifood,Fez-Meknes,2022-11,3
+CP01862,SME,Business services,Marrakech-Safi,2021-01,9
+CP00504,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,3
+CP00100,SME,Tourism & hospitality,Oriental,2021-01,2
+CP00550,Large corporate,Transport & logistics,Casablanca-Settat,2021-01,5
+CP02492,SME,Business services,Rabat-Sale-Kenitra,2021-01,4
+CP00685,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,2
+CP01671,SME,Real estate services,Marrakech-Safi,2021-01,1
+CP02648,Large corporate,Business services,Casablanca-Settat,2021-01,12
+CP02525,SME,Real estate services,Casablanca-Settat,2021-01,9
+CP02672,SME,Real estate services,Marrakech-Safi,2021-01,9
+CP02728,SME,Energy & utilities,Casablanca-Settat,2021-01,1
+CP00218,SME,Business services,Rabat-Sale-Kenitra,2021-01,10
+CP01585,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,5
+CP00913,Mid-corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP02486,SME,Tourism & hospitality,Casablanca-Settat,2021-01,6
+CP01044,Large corporate,Business services,Casablanca-Settat,2021-01,3
+CP01797,Large corporate,Tourism & hospitality,Oriental,2021-01,4
+CP01615,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,2
+CP00508,SME,Manufacturing,Casablanca-Settat,2021-01,10
+CP00001,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-03,6
+CP01902,SME,Tourism & hospitality,Casablanca-Settat,2021-01,10
+CP02826,SME,Wholesale & retail trade,Other regions,2021-01,10
+CP02948,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP01530,Property developer,Real estate development,Casablanca-Settat,2021-01,4
+CP01392,Mid-corporate,Transport & logistics,Rabat-Sale-Kenitra,2021-01,2
+CP00213,SME,Tourism & hospitality,Casablanca-Settat,2021-01,1
+CP02297,Mid-corporate,Construction,Casablanca-Settat,2021-01,12
+CP01819,Mid-corporate,Construction,Other regions,2021-01,8
+CP00357,SME,Tourism & hospitality,Marrakech-Safi,2021-02,6
+CP00622,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,3
+CP01517,SME,Business services,Rabat-Sale-Kenitra,2021-01,8
+CP00096,SME,Business services,Casablanca-Settat,2021-01,7
+CP02630,SME,Manufacturing,Casablanca-Settat,2021-01,3
+CP01317,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,1
+CP02917,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,6
+CP02784,Large corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,7
+CP02998,Property developer,Real estate development,Souss-Massa,2021-09,10
+CP01094,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,5
+CP00489,Large corporate,Transport & logistics,Souss-Massa,2021-01,2
+CP01622,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,11
+CP02028,SME,Wholesale & retail trade,Casablanca-Settat,2022-05,5
+CP02645,SME,Tourism & hospitality,Fez-Meknes,2022-09,9
+CP00291,SME,Tourism & hospitality,Casablanca-Settat,2021-01,1
+CP02329,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,1
+CP01801,Mid-corporate,Manufacturing,Marrakech-Safi,2021-01,1
+CP01407,SME,Transport & logistics,Casablanca-Settat,2021-01,10
+CP00007,SME,Transport & logistics,Fez-Meknes,2022-11,3
+CP02758,SME,Agriculture & agrifood,Casablanca-Settat,2023-12,10
+CP00936,SME,Wholesale & retail trade,Fez-Meknes,2021-01,12
+CP01596,Property developer,Real estate development,Casablanca-Settat,2022-08,8
+CP02553,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP02092,SME,Business services,Casablanca-Settat,2021-01,12
+CP02548,SME,Tourism & hospitality,Fez-Meknes,2021-01,9
+CP00482,SME,Energy & utilities,Casablanca-Settat,2021-01,10
+CP02277,Mid-corporate,Agriculture & agrifood,Fez-Meknes,2022-04,8
+CP01031,SME,Tourism & hospitality,Casablanca-Settat,2021-01,3
+CP00535,SME,Business services,Rabat-Sale-Kenitra,2021-01,2
+CP01293,SME,Tourism & hospitality,Casablanca-Settat,2021-01,5
+CP01126,Large corporate,Energy & utilities,Casablanca-Settat,2021-01,6
+CP02782,Mid-corporate,Manufacturing,Oriental,2021-01,5
+CP02655,Mid-corporate,Real estate services,Rabat-Sale-Kenitra,2021-01,2
+CP02798,Mid-corporate,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP01905,Mid-corporate,Transport & logistics,Rabat-Sale-Kenitra,2021-01,6
+CP00569,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,12
+CP01456,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00363,SME,Wholesale & retail trade,Souss-Massa,2021-01,8
+CP01187,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP02813,Large corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,4
+CP00925,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP01897,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2023-02,12
+CP01003,Large corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,2
+CP01205,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP02669,Property developer,Real estate development,Rabat-Sale-Kenitra,2022-07,6
+CP00199,Mid-corporate,Manufacturing,Marrakech-Safi,2021-01,4
+CP01015,Large corporate,Business services,Oriental,2021-01,5
+CP02501,SME,Construction,Oriental,2021-01,11
+CP00049,SME,Business services,Fez-Meknes,2021-01,12
+CP02342,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP01140,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,6
+CP00018,SME,Business services,Casablanca-Settat,2021-01,7
+CP00446,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,9
+CP01080,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,6
+CP02915,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,5
+CP02542,SME,Tourism & hospitality,Oriental,2021-01,12
+CP00351,SME,Business services,Fez-Meknes,2021-01,5
+CP02257,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,4
+CP02137,Property developer,Real estate development,Casablanca-Settat,2021-01,4
+CP01607,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP00764,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,7
+CP02241,Mid-corporate,Construction,Fez-Meknes,2021-01,8
+CP00364,SME,Construction,Other regions,2021-01,2
+CP01815,SME,Real estate services,Casablanca-Settat,2021-01,11
+CP02155,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-05,4
+CP01166,Mid-corporate,Transport & logistics,Casablanca-Settat,2023-12,2
+CP00657,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP01544,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP00828,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP01737,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,12
+CP01628,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP00286,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,10
+CP01571,Property developer,Real estate development,Marrakech-Safi,2021-01,6
+CP02719,Mid-corporate,Construction,Casablanca-Settat,2021-01,5
+CP02401,Large corporate,Manufacturing,Fez-Meknes,2021-01,8
+CP02497,SME,Manufacturing,Casablanca-Settat,2021-01,5
+CP00582,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,11
+CP00831,SME,Manufacturing,Casablanca-Settat,2021-01,6
+CP00580,Mid-corporate,Agriculture & agrifood,Marrakech-Safi,2021-01,6
+CP00147,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,9
+CP01553,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,3
+CP00520,Property developer,Real estate development,Casablanca-Settat,2021-01,7
+CP00922,SME,Agriculture & agrifood,Other regions,2021-01,10
+CP02312,Mid-corporate,Business services,Casablanca-Settat,2021-01,10
+CP02578,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP01232,SME,Manufacturing,Fez-Meknes,2021-01,1
+CP01013,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP00392,SME,Real estate services,Casablanca-Settat,2021-01,10
+CP02398,Mid-corporate,Agriculture & agrifood,Fez-Meknes,2021-01,4
+CP02189,SME,Wholesale & retail trade,Casablanca-Settat,2022-12,1
+CP01937,Property developer,Real estate development,Casablanca-Settat,2021-01,8
+CP02174,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,11
+CP01851,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP00923,SME,Agriculture & agrifood,Souss-Massa,2021-01,1
+CP00102,Mid-corporate,Transport & logistics,Tangier-Tetouan-Al Hoceima,2023-10,2
+CP02025,SME,Business services,Rabat-Sale-Kenitra,2023-02,2
+CP02825,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,3
+CP01668,Large corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-09,3
+CP02850,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP01045,Large corporate,Real estate services,Casablanca-Settat,2021-01,3
+CP00244,SME,Agriculture & agrifood,Souss-Massa,2021-01,7
+CP01170,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,5
+CP01190,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,8
+CP02503,SME,Construction,Casablanca-Settat,2021-01,8
+CP00881,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,8
+CP00790,Mid-corporate,Manufacturing,Marrakech-Safi,2023-04,11
+CP02468,Mid-corporate,Transport & logistics,Marrakech-Safi,2021-01,3
+CP00781,Large corporate,Tourism & hospitality,Casablanca-Settat,2021-01,7
+CP02950,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2023-03,5
+CP02878,Large corporate,Construction,Fez-Meknes,2021-01,7
+CP01138,SME,Transport & logistics,Casablanca-Settat,2021-01,2
+CP01144,SME,Manufacturing,Casablanca-Settat,2021-01,4
+CP01350,Mid-corporate,Construction,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00209,Large corporate,Business services,Casablanca-Settat,2021-01,10
+CP00197,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,6
+CP00098,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP01927,Mid-corporate,Manufacturing,Souss-Massa,2021-01,8
+CP02194,SME,Transport & logistics,Casablanca-Settat,2022-01,4
+CP02780,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2023-12,4
+CP00107,Property developer,Real estate development,Other regions,2021-01,2
+CP02615,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2023-11,4
+CP00225,SME,Manufacturing,Rabat-Sale-Kenitra,2022-08,3
+CP01114,Large corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2023-01,1
+CP00359,SME,Construction,Casablanca-Settat,2021-01,8
+CP02876,Large corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00640,SME,Wholesale & retail trade,Oriental,2021-01,2
+CP00917,Mid-corporate,Transport & logistics,Marrakech-Safi,2022-09,1
+CP01260,SME,Construction,Rabat-Sale-Kenitra,2021-01,2
+CP00641,SME,Manufacturing,Casablanca-Settat,2023-03,7
+CP00269,Property developer,Real estate development,Souss-Massa,2021-01,10
+CP00898,SME,Energy & utilities,Casablanca-Settat,2021-01,4
+CP00370,SME,Business services,Fez-Meknes,2021-01,2
+CP01778,SME,Manufacturing,Casablanca-Settat,2023-04,2
+CP00328,Mid-corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,8
+CP02738,Large corporate,Manufacturing,Fez-Meknes,2021-01,5
+CP00883,Property developer,Real estate development,Rabat-Sale-Kenitra,2022-10,5
+CP00591,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP00954,SME,Agriculture & agrifood,Fez-Meknes,2021-01,11
+CP00026,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,5
+CP01124,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,9
+CP01100,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,9
+CP01661,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,1
+CP01118,Mid-corporate,Business services,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP02967,SME,Transport & logistics,Casablanca-Settat,2021-01,11
+CP02227,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,11
+CP02156,SME,Agriculture & agrifood,Souss-Massa,2021-01,5
+CP00868,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP00727,SME,Construction,Rabat-Sale-Kenitra,2021-01,4
+CP01398,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00719,SME,Manufacturing,Souss-Massa,2023-06,9
+CP00303,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP02599,SME,Tourism & hospitality,Fez-Meknes,2021-01,9
+CP01835,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,2
+CP02551,SME,Construction,Casablanca-Settat,2021-01,4
+CP01018,SME,Wholesale & retail trade,Oriental,2021-01,6
+CP00527,Property developer,Real estate development,Souss-Massa,2021-01,5
+CP01703,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,9
+CP00298,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,2
+CP02007,SME,Construction,Rabat-Sale-Kenitra,2021-01,11
+CP00694,Property developer,Real estate development,Casablanca-Settat,2021-01,8
+CP00266,SME,Construction,Souss-Massa,2021-01,4
+CP02582,SME,Tourism & hospitality,Fez-Meknes,2021-01,12
+CP01224,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,6
+CP00606,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,5
+CP00325,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,1
+CP00876,Mid-corporate,Construction,Casablanca-Settat,2021-01,12
+CP02657,Mid-corporate,Construction,Marrakech-Safi,2021-01,11
+CP02932,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,3
+CP00850,SME,Transport & logistics,Casablanca-Settat,2022-07,12
+CP00083,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP01826,SME,Agriculture & agrifood,Other regions,2021-01,6
+CP00157,Large corporate,Business services,Casablanca-Settat,2021-01,12
+CP00806,SME,Construction,Rabat-Sale-Kenitra,2021-04,7
+CP01499,Mid-corporate,Manufacturing,Rabat-Sale-Kenitra,2022-10,9
+CP01274,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP01693,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,2
+CP01028,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP02521,SME,Business services,Casablanca-Settat,2021-01,4
+CP00843,Property developer,Real estate development,Casablanca-Settat,2021-01,12
+CP02274,Mid-corporate,Business services,Fez-Meknes,2022-05,2
+CP01720,Large corporate,Real estate services,Casablanca-Settat,2021-01,10
+CP01917,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP00915,Mid-corporate,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP02422,SME,Transport & logistics,Fez-Meknes,2021-01,12
+CP00078,Mid-corporate,Business services,Marrakech-Safi,2021-01,11
+CP02219,SME,Transport & logistics,Fez-Meknes,2021-01,5
+CP01563,Mid-corporate,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP02397,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,2
+CP01404,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,6
+CP01385,SME,Tourism & hospitality,Casablanca-Settat,2021-09,4
+CP00160,SME,Transport & logistics,Casablanca-Settat,2021-01,4
+CP00647,Property developer,Real estate development,Casablanca-Settat,2021-01,7
+CP00704,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,2
+CP02322,SME,Business services,Casablanca-Settat,2022-03,7
+CP02687,SME,Real estate services,Casablanca-Settat,2021-01,5
+CP01204,SME,Manufacturing,Casablanca-Settat,2023-03,3
+CP01176,SME,Business services,Marrakech-Safi,2021-01,7
+CP00744,SME,Business services,Rabat-Sale-Kenitra,2021-01,10
+CP00716,SME,Real estate services,Fez-Meknes,2021-01,8
+CP01078,SME,Energy & utilities,Rabat-Sale-Kenitra,2021-01,2
+CP01990,SME,Agriculture & agrifood,Fez-Meknes,2021-01,7
+CP02508,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,8
+CP01714,SME,Manufacturing,Casablanca-Settat,2021-10,9
+CP02112,Mid-corporate,Real estate services,Other regions,2021-01,6
+CP00961,SME,Manufacturing,Casablanca-Settat,2021-01,2
+CP01448,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP01798,SME,Business services,Marrakech-Safi,2021-01,4
+CP02455,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP00890,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2023-04,9
+CP00851,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP00279,Large corporate,Transport & logistics,Casablanca-Settat,2021-01,4
+CP01284,SME,Tourism & hospitality,Casablanca-Settat,2021-01,6
+CP02919,SME,Construction,Casablanca-Settat,2021-01,1
+CP00168,SME,Business services,Casablanca-Settat,2021-01,10
+CP02271,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP01394,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,7
+CP02477,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,6
+CP01689,Large corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP01023,SME,Construction,Casablanca-Settat,2021-01,3
+CP00534,SME,Tourism & hospitality,Casablanca-Settat,2021-01,12
+CP01422,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,2
+CP00262,SME,Business services,Souss-Massa,2022-07,12
+CP00465,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,2
+CP01154,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP02605,SME,Manufacturing,Marrakech-Safi,2022-04,11
+CP00896,Property developer,Real estate development,Souss-Massa,2021-01,12
+CP01898,SME,Energy & utilities,Casablanca-Settat,2021-01,11
+CP00877,SME,Manufacturing,Casablanca-Settat,2021-01,10
+CP02564,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,6
+CP00043,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP01555,SME,Construction,Souss-Massa,2021-01,8
+CP00368,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP00317,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP00775,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP02006,SME,Tourism & hospitality,Fez-Meknes,2021-01,1
+CP02165,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,8
+CP02894,SME,Business services,Fez-Meknes,2021-01,11
+CP00512,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2022-01,12
+CP01167,SME,Real estate services,Casablanca-Settat,2021-02,7
+CP00372,Mid-corporate,Real estate services,Rabat-Sale-Kenitra,2021-01,5
+CP02374,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,6
+CP02123,Large corporate,Transport & logistics,Other regions,2021-01,7
+CP00284,SME,Business services,Rabat-Sale-Kenitra,2021-01,8
+CP02913,Large corporate,Tourism & hospitality,Casablanca-Settat,2021-01,3
+CP00318,Mid-corporate,Business services,Casablanca-Settat,2021-01,5
+CP01542,SME,Construction,Rabat-Sale-Kenitra,2021-01,7
+CP01777,Mid-corporate,Business services,Casablanca-Settat,2021-01,11
+CP02195,Large corporate,Real estate services,Marrakech-Safi,2021-01,10
+CP02683,SME,Construction,Casablanca-Settat,2021-01,10
+CP01643,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP01298,SME,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP01020,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,7
+CP01101,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2023-09,12
+CP02187,SME,Energy & utilities,Rabat-Sale-Kenitra,2021-01,5
+CP00802,Large corporate,Real estate services,Rabat-Sale-Kenitra,2021-01,12
+CP02888,SME,Manufacturing,Marrakech-Safi,2021-01,9
+CP02268,Mid-corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,8
+CP00811,Mid-corporate,Business services,Fez-Meknes,2021-01,9
+CP00400,SME,Manufacturing,Casablanca-Settat,2021-01,10
+CP01981,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,9
+CP01909,SME,Construction,Marrakech-Safi,2021-01,9
+CP01496,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,5
+CP01647,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP00610,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,8
+CP02442,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,11
+CP02529,SME,Business services,Casablanca-Settat,2021-04,8
+CP01328,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,12
+CP01782,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,9
+CP02573,Mid-corporate,Construction,Casablanca-Settat,2022-02,5
+CP00567,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP01718,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,8
+CP01859,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,11
+CP00176,SME,Construction,Souss-Massa,2021-01,4
+CP00983,SME,Manufacturing,Marrakech-Safi,2021-01,3
+CP01519,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,3
+CP01128,SME,Agriculture & agrifood,Oriental,2023-01,1
+CP02291,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,9
+CP02050,Property developer,Real estate development,Marrakech-Safi,2021-01,12
+CP00085,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,8
+CP01793,SME,Manufacturing,Casablanca-Settat,2021-01,1
+CP00413,Property developer,Real estate development,Casablanca-Settat,2021-01,5
+CP00192,Mid-corporate,Construction,Casablanca-Settat,2021-01,11
+CP02602,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,1
+CP02924,Property developer,Real estate development,Casablanca-Settat,2021-02,8
+CP02848,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP02550,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP00466,Mid-corporate,Business services,Casablanca-Settat,2021-01,7
+CP01420,SME,Transport & logistics,Oriental,2021-01,7
+CP00304,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP01824,Mid-corporate,Agriculture & agrifood,Souss-Massa,2021-01,10
+CP02849,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,7
+CP00624,Mid-corporate,Construction,Casablanca-Settat,2021-01,9
+CP00405,Large corporate,Business services,Rabat-Sale-Kenitra,2021-01,10
+CP02017,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,7
+CP01535,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,9
+CP02933,SME,Wholesale & retail trade,Fez-Meknes,2021-01,5
+CP00767,Large corporate,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP02251,SME,Agriculture & agrifood,Marrakech-Safi,2021-03,1
+CP00180,Mid-corporate,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,9
+CP02299,Mid-corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP00221,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP02873,Mid-corporate,Tourism & hospitality,Other regions,2021-01,12
+CP02171,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,11
+CP02817,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP02658,Mid-corporate,Business services,Casablanca-Settat,2021-01,8
+CP00670,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP02733,SME,Business services,Other regions,2021-01,7
+CP01348,SME,Wholesale & retail trade,Souss-Massa,2021-01,7
+CP00919,SME,Business services,Marrakech-Safi,2021-01,6
+CP01218,Mid-corporate,Agriculture & agrifood,Other regions,2023-12,4
+CP00921,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,7
+CP01478,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP02885,SME,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP00788,Property developer,Real estate development,Casablanca-Settat,2021-01,1
+CP01549,SME,Business services,Casablanca-Settat,2022-12,1
+CP00852,Mid-corporate,Business services,Casablanca-Settat,2021-01,7
+CP00573,SME,Manufacturing,Casablanca-Settat,2021-01,4
+CP01093,Property developer,Real estate development,Oriental,2021-01,6
+CP01123,SME,Wholesale & retail trade,Other regions,2021-01,12
+CP00924,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,1
+CP01024,Large corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,3
+CP01266,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP02341,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,6
+CP01200,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP00179,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,3
+CP02409,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP00814,SME,Business services,Casablanca-Settat,2021-01,2
+CP01800,SME,Construction,Casablanca-Settat,2021-01,10
+CP00058,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,1
+CP02218,Mid-corporate,Construction,Souss-Massa,2021-01,8
+CP01729,Mid-corporate,Business services,Casablanca-Settat,2021-01,7
+CP01462,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP02703,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,7
+CP01570,Property developer,Real estate development,Casablanca-Settat,2021-01,4
+CP00190,Large corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,7
+CP00323,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,2
+CP02389,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP02372,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2022-01,10
+CP00352,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP02580,SME,Manufacturing,Rabat-Sale-Kenitra,2023-04,7
+CP01580,Property developer,Real estate development,Rabat-Sale-Kenitra,2022-07,8
+CP01676,SME,Manufacturing,Casablanca-Settat,2021-01,1
+CP02287,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,9
+CP02206,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,7
+CP00845,SME,Construction,Casablanca-Settat,2021-01,4
+CP01565,SME,Real estate services,Casablanca-Settat,2021-01,6
+CP01924,Mid-corporate,Construction,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP00713,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP02462,SME,Business services,Casablanca-Settat,2021-01,10
+CP00240,Mid-corporate,Energy & utilities,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP02150,Property developer,Real estate development,Casablanca-Settat,2021-01,10
+CP01561,SME,Wholesale & retail trade,Fez-Meknes,2021-01,1
+CP02147,SME,Real estate services,Souss-Massa,2021-01,8
+CP02282,SME,Construction,Oriental,2021-12,5
+CP01127,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,1
+CP00373,SME,Transport & logistics,Casablanca-Settat,2021-01,9
+CP00397,SME,Energy & utilities,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP00514,Mid-corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02313,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP01054,Property developer,Real estate development,Casablanca-Settat,2021-01,4
+CP01391,SME,Tourism & hospitality,Casablanca-Settat,2021-01,8
+CP02604,SME,Tourism & hospitality,Casablanca-Settat,2021-01,3
+CP00551,Mid-corporate,Energy & utilities,Casablanca-Settat,2021-01,10
+CP01841,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP01935,SME,Wholesale & retail trade,Souss-Massa,2021-01,12
+CP01263,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,1
+CP00639,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02049,SME,Manufacturing,Oriental,2021-01,7
+CP00195,SME,Manufacturing,Casablanca-Settat,2021-01,11
+CP02644,SME,Transport & logistics,Rabat-Sale-Kenitra,2022-09,6
+CP02755,SME,Business services,Tangier-Tetouan-Al Hoceima,2023-12,12
+CP02597,SME,Tourism & hospitality,Casablanca-Settat,2021-01,3
+CP01929,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,11
+CP01215,Mid-corporate,Business services,Fez-Meknes,2021-01,7
+CP01468,SME,Transport & logistics,Marrakech-Safi,2021-01,12
+CP00879,SME,Transport & logistics,Fez-Meknes,2023-02,3
+CP00277,SME,Tourism & hospitality,Other regions,2021-01,4
+CP01918,SME,Transport & logistics,Casablanca-Settat,2021-01,7
+CP00722,Mid-corporate,Tourism & hospitality,Marrakech-Safi,2021-01,7
+CP02583,Large corporate,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP02539,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02513,Property developer,Real estate development,Marrakech-Safi,2021-01,5
+CP00537,Property developer,Real estate development,Marrakech-Safi,2021-01,2
+CP01613,Property developer,Real estate development,Souss-Massa,2021-01,7
+CP02696,SME,Tourism & hospitality,Casablanca-Settat,2021-01,9
+CP02376,SME,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP01331,SME,Business services,Casablanca-Settat,2021-01,12
+CP00119,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP00485,SME,Manufacturing,Marrakech-Safi,2021-01,4
+CP02699,Large corporate,Transport & logistics,Marrakech-Safi,2021-01,10
+CP00529,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,11
+CP01853,SME,Energy & utilities,Rabat-Sale-Kenitra,2021-01,12
+CP00417,SME,Manufacturing,Casablanca-Settat,2021-01,10
+CP01802,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,3
+CP00177,SME,Tourism & hospitality,Casablanca-Settat,2023-08,2
+CP01010,Large corporate,Transport & logistics,Souss-Massa,2021-01,3
+CP01617,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,11
+CP02889,Mid-corporate,Energy & utilities,Other regions,2021-01,4
+CP02488,SME,Tourism & hospitality,Casablanca-Settat,2023-12,4
+CP01433,SME,Agriculture & agrifood,Marrakech-Safi,2023-07,11
+CP02972,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,3
+CP02143,Mid-corporate,Construction,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP00927,Mid-corporate,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP02714,SME,Manufacturing,Marrakech-Safi,2021-01,4
+CP02861,Property developer,Real estate development,Souss-Massa,2021-01,8
+CP00226,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,9
+CP00507,Property developer,Real estate development,Casablanca-Settat,2021-01,4
+CP00779,SME,Construction,Casablanca-Settat,2023-04,1
+CP00895,SME,Construction,Marrakech-Safi,2021-01,8
+CP02117,Large corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,7
+CP00902,SME,Manufacturing,Rabat-Sale-Kenitra,2021-04,8
+CP01321,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP02805,SME,Manufacturing,Casablanca-Settat,2021-01,10
+CP01637,SME,Transport & logistics,Marrakech-Safi,2021-01,8
+CP02743,Mid-corporate,Manufacturing,Marrakech-Safi,2021-01,10
+CP00680,Large corporate,Construction,Marrakech-Safi,2021-01,9
+CP02126,Large corporate,Transport & logistics,Marrakech-Safi,2021-01,6
+CP02314,SME,Wholesale & retail trade,Souss-Massa,2021-01,4
+CP02015,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP00662,SME,Real estate services,Oriental,2021-01,8
+CP00191,SME,Real estate services,Casablanca-Settat,2021-01,7
+CP00335,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP02175,Property developer,Real estate development,Marrakech-Safi,2021-01,5
+CP02226,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,2
+CP02577,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,6
+CP00395,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,11
+CP02127,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP00784,SME,Wholesale & retail trade,Souss-Massa,2021-01,10
+CP02666,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,9
+CP00939,SME,Manufacturing,Casablanca-Settat,2021-09,12
+CP00289,SME,Business services,Rabat-Sale-Kenitra,2021-01,3
+CP01047,SME,Wholesale & retail trade,Casablanca-Settat,2021-02,9
+CP01249,Property developer,Real estate development,Casablanca-Settat,2021-01,1
+CP01172,SME,Construction,Rabat-Sale-Kenitra,2021-01,3
+CP00970,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,1
+CP01995,SME,Manufacturing,Casablanca-Settat,2021-01,6
+CP01502,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP00771,SME,Manufacturing,Rabat-Sale-Kenitra,2022-07,5
+CP02543,SME,Real estate services,Marrakech-Safi,2021-01,2
+CP00339,SME,Manufacturing,Casablanca-Settat,2021-01,1
+CP02867,SME,Tourism & hospitality,Casablanca-Settat,2022-09,6
+CP00698,Property developer,Real estate development,Oriental,2021-02,5
+CP01310,SME,Construction,Rabat-Sale-Kenitra,2021-01,6
+CP01062,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,5
+CP00473,SME,Construction,Fez-Meknes,2021-01,5
+CP02440,SME,Manufacturing,Casablanca-Settat,2021-01,1
+CP01721,SME,Tourism & hospitality,Marrakech-Safi,2023-12,6
+CP02450,SME,Agriculture & agrifood,Marrakech-Safi,2021-04,11
+CP00159,Property developer,Real estate development,Oriental,2021-01,2
+CP01326,Large corporate,Wholesale & retail trade,Oriental,2021-01,2
+CP01747,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP00538,SME,Manufacturing,Marrakech-Safi,2022-12,7
+CP00476,SME,Wholesale & retail trade,Casablanca-Settat,2023-05,4
+CP01368,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP00747,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2023-01,4
+CP02207,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP00402,SME,Real estate services,Casablanca-Settat,2023-10,7
+CP00445,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,3
+CP00356,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,10
+CP02413,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP00621,Mid-corporate,Construction,Souss-Massa,2021-01,3
+CP00932,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,10
+CP02896,Property developer,Real estate development,Marrakech-Safi,2021-01,8
+CP02835,SME,Construction,Fez-Meknes,2021-01,11
+CP01523,Mid-corporate,Construction,Marrakech-Safi,2021-01,10
+CP00574,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP01063,Property developer,Real estate development,Fez-Meknes,2021-01,12
+CP02639,SME,Manufacturing,Marrakech-Safi,2021-01,1
+CP02066,SME,Business services,Marrakech-Safi,2021-01,5
+CP02511,SME,Wholesale & retail trade,Souss-Massa,2021-01,8
+CP00758,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP00616,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,3
+CP01749,Mid-corporate,Tourism & hospitality,Souss-Massa,2021-01,3
+CP02005,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,10
+CP01286,Property developer,Real estate development,Fez-Meknes,2021-01,11
+CP00187,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP01732,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,7
+CP00150,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,10
+CP00319,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,3
+CP01701,Mid-corporate,Manufacturing,Other regions,2021-01,12
+CP02392,SME,Energy & utilities,Casablanca-Settat,2021-01,2
+CP01675,Property developer,Real estate development,Marrakech-Safi,2021-01,8
+CP00014,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,5
+CP00974,SME,Tourism & hospitality,Oriental,2021-01,11
+CP00934,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,3
+CP00977,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP02614,SME,Construction,Casablanca-Settat,2021-01,2
+CP00735,SME,Business services,Rabat-Sale-Kenitra,2021-01,3
+CP00409,Property developer,Real estate development,Other regions,2021-01,5
+CP01134,Mid-corporate,Manufacturing,Other regions,2021-01,10
+CP00281,Property developer,Real estate development,Casablanca-Settat,2021-01,4
+CP01419,SME,Energy & utilities,Rabat-Sale-Kenitra,2021-01,9
+CP02325,Mid-corporate,Business services,Casablanca-Settat,2021-01,7
+CP00311,SME,Real estate services,Rabat-Sale-Kenitra,2021-08,12
+CP02004,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP01256,SME,Business services,Casablanca-Settat,2021-01,3
+CP02424,Mid-corporate,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2022-06,11
+CP02018,SME,Energy & utilities,Souss-Massa,2021-01,4
+CP02333,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,3
+CP00987,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP00572,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP00112,Property developer,Real estate development,Casablanca-Settat,2021-01,1
+CP01384,SME,Manufacturing,Casablanca-Settat,2021-01,11
+CP00283,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02077,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP01673,SME,Transport & logistics,Marrakech-Safi,2022-04,7
+CP00579,SME,Wholesale & retail trade,Souss-Massa,2021-01,3
+CP01072,SME,Transport & logistics,Souss-Massa,2021-01,3
+CP00250,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2023-06,2
+CP01998,Mid-corporate,Business services,Casablanca-Settat,2021-01,2
+CP02544,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,7
+CP01463,Mid-corporate,Energy & utilities,Casablanca-Settat,2021-01,10
+CP02730,SME,Tourism & hospitality,Oriental,2021-01,6
+CP00836,SME,Manufacturing,Oriental,2021-01,1
+CP00738,SME,Manufacturing,Casablanca-Settat,2021-10,6
+CP01480,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,9
+CP02164,Large corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,11
+CP01051,SME,Business services,Casablanca-Settat,2021-01,9
+CP02994,Mid-corporate,Real estate services,Other regions,2021-01,5
+CP00940,SME,Business services,Casablanca-Settat,2021-01,8
+CP01760,SME,Tourism & hospitality,Casablanca-Settat,2021-01,1
+CP00407,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,5
+CP01644,SME,Transport & logistics,Casablanca-Settat,2021-01,7
+CP00438,Mid-corporate,Transport & logistics,Casablanca-Settat,2023-08,1
+CP01920,Property developer,Real estate development,Fez-Meknes,2021-01,1
+CP00383,SME,Real estate services,Casablanca-Settat,2023-09,10
+CP01687,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,3
+CP01067,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,2
+CP02319,Property developer,Real estate development,Casablanca-Settat,2021-01,8
+CP02042,Mid-corporate,Business services,Casablanca-Settat,2021-01,4
+CP01500,SME,Manufacturing,Casablanca-Settat,2021-01,12
+CP02819,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP01057,SME,Manufacturing,Casablanca-Settat,2021-01,10
+CP00336,Property developer,Real estate development,Fez-Meknes,2021-01,4
+CP00742,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,11
+CP02262,Mid-corporate,Business services,Oriental,2021-01,4
+CP02545,SME,Energy & utilities,Rabat-Sale-Kenitra,2021-01,3
+CP02735,SME,Manufacturing,Marrakech-Safi,2021-01,12
+CP00205,Large corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP00708,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,2
+CP01043,SME,Wholesale & retail trade,Casablanca-Settat,2023-04,11
+CP02363,Property developer,Real estate development,Rabat-Sale-Kenitra,2023-01,2
+CP01183,Large corporate,Construction,Marrakech-Safi,2021-01,9
+CP02356,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,6
+CP01162,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,1
+CP00105,SME,Agriculture & agrifood,Other regions,2021-01,10
+CP02119,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,9
+CP02347,SME,Wholesale & retail trade,Oriental,2022-08,11
+CP02494,SME,Wholesale & retail trade,Fez-Meknes,2021-09,8
+CP00893,Property developer,Real estate development,Fez-Meknes,2021-01,10
+CP00886,Property developer,Real estate development,Marrakech-Safi,2021-01,11
+CP00427,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP01934,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP01973,Mid-corporate,Energy & utilities,Marrakech-Safi,2021-01,1
+CP02900,Mid-corporate,Tourism & hospitality,Marrakech-Safi,2021-01,5
+CP00155,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,8
+CP01649,SME,Construction,Casablanca-Settat,2023-12,2
+CP01230,SME,Manufacturing,Casablanca-Settat,2021-01,2
+CP01178,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,5
+CP01832,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-12,11
+CP02396,SME,Transport & logistics,Fez-Meknes,2021-01,4
+CP00500,SME,Manufacturing,Marrakech-Safi,2021-01,12
+CP00092,Mid-corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP01691,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP00644,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,3
+CP02197,Large corporate,Agriculture & agrifood,Casablanca-Settat,2023-08,10
+CP00440,Large corporate,Business services,Casablanca-Settat,2021-01,10
+CP00064,SME,Energy & utilities,Casablanca-Settat,2021-01,8
+CP01380,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP02988,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,2
+CP00366,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-07,5
+CP00315,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP01075,SME,Energy & utilities,Casablanca-Settat,2021-01,1
+CP01251,Mid-corporate,Construction,Casablanca-Settat,2021-01,12
+CP00175,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP02454,SME,Business services,Rabat-Sale-Kenitra,2021-10,4
+CP00568,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP00723,SME,Tourism & hospitality,Casablanca-Settat,2021-01,1
+CP01583,SME,Wholesale & retail trade,Oriental,2021-01,8
+CP01846,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,12
+CP01908,Mid-corporate,Business services,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP01936,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,5
+CP01390,Property developer,Real estate development,Fez-Meknes,2021-01,8
+CP02232,SME,Manufacturing,Souss-Massa,2021-02,6
+CP01411,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,8
+CP01068,Mid-corporate,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP02415,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP02830,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP01069,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,9
+CP02575,SME,Business services,Casablanca-Settat,2021-01,4
+CP00486,Large corporate,Transport & logistics,Oriental,2021-01,2
+CP02158,SME,Wholesale & retail trade,Fez-Meknes,2021-01,2
+CP01779,SME,Real estate services,Casablanca-Settat,2021-01,2
+CP00875,Mid-corporate,Manufacturing,Other regions,2021-01,10
+CP01199,SME,Tourism & hospitality,Casablanca-Settat,2021-11,1
+CP00164,Mid-corporate,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,6
+CP02304,Mid-corporate,Business services,Fez-Meknes,2023-01,8
+CP00332,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP02761,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,1
+CP01112,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP02350,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,6
+CP02973,Mid-corporate,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,1
+CP02185,Property developer,Real estate development,Casablanca-Settat,2021-01,2
+CP00751,SME,Construction,Tangier-Tetouan-Al Hoceima,2022-03,11
+CP00559,SME,Tourism & hospitality,Casablanca-Settat,2021-01,12
+CP00376,SME,Transport & logistics,Casablanca-Settat,2021-01,10
+CP02772,SME,Business services,Marrakech-Safi,2021-01,5
+CP01333,Mid-corporate,Business services,Casablanca-Settat,2021-01,12
+CP02132,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,4
+CP01552,Mid-corporate,Tourism & hospitality,Marrakech-Safi,2023-07,3
+CP00447,Large corporate,Construction,Marrakech-Safi,2021-01,10
+CP01913,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP01595,SME,Tourism & hospitality,Fez-Meknes,2021-01,7
+CP02770,SME,Manufacturing,Marrakech-Safi,2021-01,8
+CP01182,Mid-corporate,Construction,Casablanca-Settat,2021-01,2
+CP01652,Large corporate,Business services,Marrakech-Safi,2021-01,12
+CP01017,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,2
+CP02099,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00295,SME,Manufacturing,Rabat-Sale-Kenitra,2023-06,4
+CP00620,Large corporate,Tourism & hospitality,Marrakech-Safi,2021-01,6
+CP01993,SME,Wholesale & retail trade,Other regions,2021-01,4
+CP00833,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,7
+CP01171,SME,Agriculture & agrifood,Fez-Meknes,2021-01,1
+CP02837,SME,Construction,Marrakech-Safi,2022-12,3
+CP01453,SME,Energy & utilities,Fez-Meknes,2021-06,7
+CP00946,SME,Construction,Oriental,2021-01,9
+CP02820,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP01387,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,11
+CP00611,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,12
+CP02414,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,10
+CP00493,Large corporate,Transport & logistics,Rabat-Sale-Kenitra,2021-01,10
+CP02308,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,5
+CP01432,SME,Agriculture & agrifood,Souss-Massa,2021-01,11
+CP00905,Large corporate,Manufacturing,Casablanca-Settat,2021-01,12
+CP00938,Large corporate,Construction,Marrakech-Safi,2021-01,7
+CP02140,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP01451,Large corporate,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,1
+CP02922,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,6
+CP00635,SME,Real estate services,Rabat-Sale-Kenitra,2023-06,8
+CP01223,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,7
+CP01241,SME,Real estate services,Marrakech-Safi,2021-01,11
+CP02822,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP01965,SME,Business services,Casablanca-Settat,2021-01,8
+CP02418,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP00228,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,11
+CP02186,SME,Real estate services,Other regions,2021-01,8
+CP00055,SME,Agriculture & agrifood,Souss-Massa,2021-01,7
+CP00544,SME,Energy & utilities,Casablanca-Settat,2021-01,1
+CP02180,Mid-corporate,Business services,Casablanca-Settat,2021-01,8
+CP00158,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,3
+CP02014,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP00986,SME,Tourism & hospitality,Casablanca-Settat,2021-01,7
+CP02546,SME,Energy & utilities,Casablanca-Settat,2021-01,1
+CP00757,Large corporate,Transport & logistics,Casablanca-Settat,2021-01,9
+CP02473,SME,Manufacturing,Casablanca-Settat,2021-01,4
+CP01651,Property developer,Real estate development,Casablanca-Settat,2021-01,7
+CP02467,SME,Construction,Casablanca-Settat,2021-01,5
+CP01683,Mid-corporate,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP01955,SME,Construction,Rabat-Sale-Kenitra,2021-01,5
+CP01609,SME,Business services,Casablanca-Settat,2022-06,1
+CP00377,Large corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,3
+CP00015,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,10
+CP00118,Large corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,2
+CP00796,SME,Tourism & hospitality,Oriental,2021-01,6
+CP01978,SME,Manufacturing,Casablanca-Settat,2021-01,2
+CP00245,Mid-corporate,Transport & logistics,Souss-Massa,2021-01,7
+CP00834,SME,Manufacturing,Marrakech-Safi,2021-01,8
+CP02024,Mid-corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP00532,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,10
+CP02824,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,4
+CP02942,Large corporate,Manufacturing,Casablanca-Settat,2021-01,7
+CP01946,Mid-corporate,Agriculture & agrifood,Other regions,2021-01,4
+CP00208,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP00835,SME,Business services,Casablanca-Settat,2022-05,1
+CP01454,Mid-corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,4
+CP00490,SME,Construction,Casablanca-Settat,2021-01,9
+CP02427,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP00196,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2023-10,4
+CP01505,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,4
+CP02935,Large corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,4
+CP02029,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP00071,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP02476,SME,Agriculture & agrifood,Fez-Meknes,2021-01,8
+CP01388,SME,Manufacturing,Casablanca-Settat,2021-11,5
+CP01746,SME,Business services,Tangier-Tetouan-Al Hoceima,2022-01,6
+CP00316,Mid-corporate,Construction,Marrakech-Safi,2021-01,7
+CP00754,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,7
+CP02339,SME,Business services,Casablanca-Settat,2021-01,5
+CP02269,SME,Manufacturing,Casablanca-Settat,2021-01,12
+CP02061,SME,Construction,Casablanca-Settat,2021-01,4
+CP00326,Property developer,Real estate development,Rabat-Sale-Kenitra,2023-07,6
+CP01591,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,1
+CP02874,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP00260,Property developer,Real estate development,Casablanca-Settat,2021-01,11
+CP01556,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP02941,SME,Manufacturing,Casablanca-Settat,2021-01,6
+CP00979,Property developer,Real estate development,Casablanca-Settat,2021-01,2
+CP02060,SME,Manufacturing,Other regions,2021-01,9
+CP01509,SME,Real estate services,Casablanca-Settat,2021-01,8
+CP01287,Mid-corporate,Construction,Casablanca-Settat,2021-01,12
+CP01961,SME,Business services,Casablanca-Settat,2021-01,7
+CP02904,Mid-corporate,Business services,Casablanca-Settat,2021-01,1
+CP02587,SME,Construction,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP00242,SME,Manufacturing,Marrakech-Safi,2021-01,9
+CP00787,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP01302,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-09,2
+CP02177,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,6
+CP00671,SME,Agriculture & agrifood,Fez-Meknes,2021-01,6
+CP02764,Large corporate,Business services,Rabat-Sale-Kenitra,2021-07,4
+CP01748,SME,Transport & logistics,Casablanca-Settat,2021-06,11
+CP01336,SME,Tourism & hospitality,Marrakech-Safi,2021-01,3
+CP02433,SME,Tourism & hospitality,Fez-Meknes,2021-01,1
+CP02720,SME,Business services,Rabat-Sale-Kenitra,2021-01,3
+CP00682,SME,Manufacturing,Other regions,2021-01,12
+CP02870,Mid-corporate,Transport & logistics,Fez-Meknes,2021-01,2
+CP02693,SME,Construction,Casablanca-Settat,2021-05,7
+CP02940,Property developer,Real estate development,Marrakech-Safi,2021-01,3
+CP01259,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP00855,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,7
+CP02649,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,1
+CP01529,SME,Manufacturing,Fez-Meknes,2021-01,3
+CP00470,Mid-corporate,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP01942,SME,Transport & logistics,Rabat-Sale-Kenitra,2023-02,1
+CP02541,Large corporate,Construction,Casablanca-Settat,2021-01,6
+CP02754,Mid-corporate,Construction,Rabat-Sale-Kenitra,2021-01,8
+CP00577,Large corporate,Wholesale & retail trade,Souss-Massa,2021-01,3
+CP00129,SME,Real estate services,Marrakech-Safi,2022-02,2
+CP01518,Property developer,Real estate development,Casablanca-Settat,2021-01,6
+CP00829,SME,Real estate services,Souss-Massa,2021-01,9
+CP01236,SME,Transport & logistics,Fez-Meknes,2021-01,1
+CP02771,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,5
+CP00321,Property developer,Real estate development,Casablanca-Settat,2021-01,12
+CP02838,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,5
+CP01836,Large corporate,Tourism & hospitality,Casablanca-Settat,2021-01,4
+CP02652,SME,Wholesale & retail trade,Casablanca-Settat,2023-12,9
+CP02504,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2023-05,6
+CP02045,SME,Business services,Souss-Massa,2021-01,5
+CP01415,SME,Business services,Casablanca-Settat,2022-03,10
+CP02328,Property developer,Real estate development,Fez-Meknes,2021-01,1
+CP02691,SME,Tourism & hospitality,Souss-Massa,2021-01,9
+CP01624,SME,Transport & logistics,Casablanca-Settat,2021-12,5
+CP02786,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,11
+CP00193,SME,Manufacturing,Marrakech-Safi,2021-01,9
+CP01297,SME,Construction,Marrakech-Safi,2021-01,12
+CP02554,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP02633,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP00762,Large corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2023-02,11
+CP00021,Mid-corporate,Business services,Marrakech-Safi,2021-01,5
+CP01566,SME,Construction,Marrakech-Safi,2021-01,10
+CP01878,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,9
+CP02892,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,6
+CP00077,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,1
+CP02927,Property developer,Real estate development,Souss-Massa,2021-01,1
+CP00862,Property developer,Real estate development,Souss-Massa,2021-01,9
+CP00673,SME,Energy & utilities,Marrakech-Safi,2021-01,2
+CP00488,SME,Manufacturing,Casablanca-Settat,2021-01,1
+CP00631,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,3
+CP01753,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,11
+CP00093,SME,Construction,Casablanca-Settat,2021-01,8
+CP00872,Mid-corporate,Construction,Casablanca-Settat,2021-01,9
+CP00333,Mid-corporate,Construction,Fez-Meknes,2021-01,8
+CP00230,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,7
+CP02265,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2022-12,4
+CP02961,SME,Wholesale & retail trade,Other regions,2022-07,6
+CP00972,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP02801,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP00950,Mid-corporate,Tourism & hospitality,Souss-Massa,2021-01,11
+CP00772,SME,Business services,Tangier-Tetouan-Al Hoceima,2023-02,9
+CP01632,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,10
+CP00183,Mid-corporate,Business services,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP00800,Mid-corporate,Real estate services,Fez-Meknes,2021-05,9
+CP02167,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,10
+CP02783,Large corporate,Construction,Rabat-Sale-Kenitra,2021-01,1
+CP00618,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,1
+CP02481,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2022-12,6
+CP02787,Mid-corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,1
+CP00966,SME,Real estate services,Casablanca-Settat,2022-11,5
+CP00436,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP02080,SME,Tourism & hospitality,Casablanca-Settat,2021-01,12
+CP00741,Property developer,Real estate development,Casablanca-Settat,2021-03,8
+CP00988,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,1
+CP01999,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP01807,SME,Construction,Casablanca-Settat,2021-01,9
+CP00057,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,4
+CP02929,Mid-corporate,Real estate services,Fez-Meknes,2021-01,11
+CP02043,SME,Business services,Other regions,2021-01,12
+CP01598,Mid-corporate,Transport & logistics,Rabat-Sale-Kenitra,2022-08,12
+CP00431,Large corporate,Wholesale & retail trade,Casablanca-Settat,2023-10,2
+CP01152,SME,Transport & logistics,Casablanca-Settat,2023-06,6
+CP01962,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP02921,SME,Agriculture & agrifood,Casablanca-Settat,2023-10,6
+CP01956,Mid-corporate,Construction,Souss-Massa,2023-09,6
+CP01641,SME,Manufacturing,Marrakech-Safi,2021-01,4
+CP00300,Large corporate,Agriculture & agrifood,Casablanca-Settat,2022-10,6
+CP00201,SME,Construction,Oriental,2021-01,9
+CP01049,Mid-corporate,Business services,Rabat-Sale-Kenitra,2022-08,1
+CP00172,SME,Transport & logistics,Casablanca-Settat,2021-01,10
+CP00141,SME,Energy & utilities,Rabat-Sale-Kenitra,2021-01,9
+CP00696,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,2
+CP02665,SME,Real estate services,Souss-Massa,2021-01,10
+CP02395,SME,Construction,Casablanca-Settat,2021-01,7
+CP01285,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP01091,Property developer,Real estate development,Casablanca-Settat,2022-10,6
+CP00365,Large corporate,Construction,Souss-Massa,2021-01,7
+CP00691,SME,Construction,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP01132,Mid-corporate,Construction,Rabat-Sale-Kenitra,2021-01,8
+CP00586,Large corporate,Tourism & hospitality,Casablanca-Settat,2021-01,8
+CP02532,SME,Transport & logistics,Souss-Massa,2021-01,5
+CP00795,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,6
+CP00313,Large corporate,Manufacturing,Casablanca-Settat,2021-01,8
+CP00897,SME,Agriculture & agrifood,Fez-Meknes,2021-01,7
+CP00499,Mid-corporate,Manufacturing,Casablanca-Settat,2021-05,6
+CP01582,Property developer,Real estate development,Casablanca-Settat,2021-01,12
+CP02003,Mid-corporate,Real estate services,Rabat-Sale-Kenitra,2021-01,11
+CP02522,SME,Business services,Casablanca-Settat,2021-01,5
+CP01487,SME,Transport & logistics,Rabat-Sale-Kenitra,2023-05,9
+CP02747,SME,Tourism & hospitality,Casablanca-Settat,2021-01,10
+CP02115,SME,Transport & logistics,Casablanca-Settat,2023-06,2
+CP00424,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,8
+CP02833,Large corporate,Construction,Casablanca-Settat,2021-05,10
+CP02300,SME,Agriculture & agrifood,Oriental,2021-01,1
+CP02625,SME,Construction,Rabat-Sale-Kenitra,2021-01,5
+CP02809,Large corporate,Energy & utilities,Rabat-Sale-Kenitra,2021-01,10
+CP00229,SME,Business services,Casablanca-Settat,2021-01,12
+CP02647,SME,Real estate services,Marrakech-Safi,2021-11,12
+CP00297,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP00042,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,1
+CP02142,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP00564,Mid-corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,10
+CP01262,SME,Tourism & hospitality,Marrakech-Safi,2022-12,9
+CP01322,Mid-corporate,Agriculture & agrifood,Souss-Massa,2021-01,3
+CP00292,SME,Real estate services,Fez-Meknes,2021-01,2
+CP00826,SME,Business services,Casablanca-Settat,2021-01,2
+CP01507,SME,Manufacturing,Casablanca-Settat,2021-07,11
+CP02500,SME,Tourism & hospitality,Casablanca-Settat,2021-01,10
+CP01424,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,12
+CP01820,SME,Manufacturing,Souss-Massa,2021-01,2
+CP02358,SME,Wholesale & retail trade,Souss-Massa,2021-01,9
+CP02898,SME,Wholesale & retail trade,Casablanca-Settat,2022-11,12
+CP00254,Property developer,Real estate development,Fez-Meknes,2021-01,7
+CP01257,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,10
+CP00975,Large corporate,Manufacturing,Fez-Meknes,2021-01,8
+CP02592,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,1
+CP02159,SME,Manufacturing,Casablanca-Settat,2021-01,6
+CP01378,Mid-corporate,Business services,Casablanca-Settat,2023-03,4
+CP01809,Large corporate,Manufacturing,Oriental,2021-01,2
+CP02891,Mid-corporate,Energy & utilities,Rabat-Sale-Kenitra,2021-11,8
+CP01135,SME,Construction,Casablanca-Settat,2021-01,12
+CP02987,SME,Tourism & hospitality,Casablanca-Settat,2021-01,1
+CP00238,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP01887,SME,Manufacturing,Oriental,2021-01,9
+CP02563,Property developer,Real estate development,Casablanca-Settat,2022-11,4
+CP01497,Property developer,Real estate development,Casablanca-Settat,2021-01,2
+CP00169,SME,Energy & utilities,Marrakech-Safi,2021-01,3
+CP02141,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-10,1
+CP02834,SME,Manufacturing,Casablanca-Settat,2021-01,12
+CP00089,Property developer,Real estate development,Casablanca-Settat,2021-01,6
+CP01888,SME,Agriculture & agrifood,Casablanca-Settat,2021-04,12
+CP00210,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP02386,Large corporate,Business services,Casablanca-Settat,2021-01,5
+CP00554,SME,Tourism & hospitality,Casablanca-Settat,2021-01,12
+CP01984,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,4
+CP02574,Large corporate,Wholesale & retail trade,Fez-Meknes,2021-01,3
+CP02327,SME,Wholesale & retail trade,Souss-Massa,2022-02,10
+CP01881,SME,Manufacturing,Casablanca-Settat,2021-01,7
+CP01030,Property developer,Real estate development,Casablanca-Settat,2021-03,6
+CP02524,Mid-corporate,Manufacturing,Other regions,2021-01,8
+CP00960,SME,Business services,Marrakech-Safi,2021-01,12
+CP02070,SME,Business services,Rabat-Sale-Kenitra,2021-01,4
+CP01160,SME,Business services,Casablanca-Settat,2021-01,11
+CP02373,Property developer,Real estate development,Casablanca-Settat,2021-01,11
+CP00475,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-08,10
+CP00425,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,2
+CP02447,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,2
+CP02561,Property developer,Real estate development,Oriental,2021-01,2
+CP01655,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-11,9
+CP01822,Large corporate,Transport & logistics,Rabat-Sale-Kenitra,2021-01,5
+CP02278,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,12
+CP02146,Large corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,1
+CP01557,Property developer,Real estate development,Marrakech-Safi,2021-01,5
+CP02135,Large corporate,Business services,Casablanca-Settat,2021-01,4
+CP01726,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2022-01,11
+CP01039,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP00827,Mid-corporate,Business services,Fez-Meknes,2021-01,5
+CP01974,SME,Tourism & hospitality,Casablanca-Settat,2023-09,11
+CP00074,SME,Construction,Fez-Meknes,2021-01,12
+CP01052,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,11
+CP02863,Property developer,Real estate development,Casablanca-Settat,2021-01,8
+CP01821,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP01948,SME,Manufacturing,Casablanca-Settat,2021-01,2
+CP01386,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,5
+CP02054,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,6
+CP00278,SME,Agriculture & agrifood,Marrakech-Safi,2021-04,7
+CP00066,SME,Wholesale & retail trade,Casablanca-Settat,2021-03,1
+CP02800,SME,Manufacturing,Other regions,2021-01,9
+CP02093,SME,Manufacturing,Casablanca-Settat,2023-11,5
+CP02860,Mid-corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP01397,SME,Construction,Souss-Massa,2022-04,11
+CP00720,Property developer,Real estate development,Fez-Meknes,2021-01,5
+CP00957,Mid-corporate,Energy & utilities,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP01593,SME,Transport & logistics,Marrakech-Safi,2021-11,6
+CP00069,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP00474,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP02352,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,2
+CP02495,SME,Transport & logistics,Casablanca-Settat,2021-01,9
+CP01989,SME,Manufacturing,Casablanca-Settat,2021-01,8
+CP00151,Property developer,Real estate development,Casablanca-Settat,2021-01,11
+CP02361,Property developer,Real estate development,Souss-Massa,2021-01,12
+CP00991,SME,Construction,Souss-Massa,2021-01,9
+CP02569,SME,Wholesale & retail trade,Fez-Meknes,2021-01,8
+CP00736,SME,Transport & logistics,Marrakech-Safi,2021-01,5
+CP02671,SME,Energy & utilities,Casablanca-Settat,2021-01,11
+CP01252,SME,Manufacturing,Casablanca-Settat,2021-01,12
+CP00743,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00002,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP02746,SME,Tourism & hospitality,Casablanca-Settat,2021-01,8
+CP01457,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,12
+CP01306,SME,Construction,Rabat-Sale-Kenitra,2021-01,10
+CP01762,Large corporate,Transport & logistics,Casablanca-Settat,2021-01,3
+CP01966,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,1
+CP02752,Large corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP01992,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP02261,SME,Tourism & hospitality,Oriental,2021-01,11
+CP01667,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,4
+CP00246,SME,Manufacturing,Marrakech-Safi,2022-04,5
+CP00778,SME,Agriculture & agrifood,Fez-Meknes,2021-01,10
+CP00143,Property developer,Real estate development,Casablanca-Settat,2021-01,7
+CP02412,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP01265,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,4
+CP01725,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,8
+CP00505,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,6
+CP01211,SME,Real estate services,Souss-Massa,2021-01,12
+CP02335,Mid-corporate,Manufacturing,Oriental,2021-01,6
+CP00687,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,2
+CP01181,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP01677,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP01543,Mid-corporate,Real estate services,Marrakech-Safi,2021-01,11
+CP01092,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP01796,Property developer,Real estate development,Casablanca-Settat,2021-01,12
+CP00871,SME,Wholesale & retail trade,Fez-Meknes,2021-01,5
+CP00763,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,11
+CP01872,SME,Construction,Rabat-Sale-Kenitra,2023-06,8
+CP02852,SME,Tourism & hospitality,Casablanca-Settat,2021-01,12
+CP00182,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,5
+CP01763,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,8
+CP01508,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP02517,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,2
+CP01890,SME,Real estate services,Souss-Massa,2023-10,10
+CP00951,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,2
+CP01153,SME,Agriculture & agrifood,Souss-Massa,2021-01,10
+CP00174,Mid-corporate,Business services,Rabat-Sale-Kenitra,2023-01,2
+CP02943,SME,Manufacturing,Marrakech-Safi,2021-01,3
+CP01928,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,6
+CP02945,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,3
+CP01626,Property developer,Real estate development,Casablanca-Settat,2021-01,1
+CP01631,SME,Manufacturing,Casablanca-Settat,2021-06,1
+CP01076,Property developer,Real estate development,Casablanca-Settat,2021-01,4
+CP01551,SME,Tourism & hospitality,Casablanca-Settat,2021-01,6
+CP02276,SME,Tourism & hospitality,Oriental,2021-01,1
+CP01996,Large corporate,Transport & logistics,Other regions,2021-01,2
+CP02709,Mid-corporate,Real estate services,Marrakech-Safi,2021-01,8
+CP02869,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,4
+CP01728,SME,Wholesale & retail trade,Souss-Massa,2022-05,10
+CP01825,Mid-corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,11
+CP02179,Large corporate,Tourism & hospitality,Casablanca-Settat,2021-01,1
+CP00271,Mid-corporate,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,12
+CP02677,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP01659,Mid-corporate,Business services,Casablanca-Settat,2021-01,10
+CP02841,Mid-corporate,Construction,Rabat-Sale-Kenitra,2021-01,6
+CP01037,Property developer,Real estate development,Marrakech-Safi,2021-01,1
+CP01403,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,11
+CP01216,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2022-10,7
+CP02240,Large corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,1
+CP01229,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,2
+CP02708,Mid-corporate,Wholesale & retail trade,Oriental,2021-01,3
+CP00705,SME,Manufacturing,Fez-Meknes,2023-01,5
+CP01209,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP00873,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,6
+CP00637,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP01005,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-02,12
+CP02792,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,9
+CP01823,Mid-corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02275,Property developer,Real estate development,Marrakech-Safi,2021-01,11
+CP02617,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,4
+CP02423,SME,Wholesale & retail trade,Fez-Meknes,2021-01,7
+CP02203,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2023-10,8
+CP01730,SME,Business services,Casablanca-Settat,2022-09,4
+CP02023,SME,Manufacturing,Casablanca-Settat,2021-01,12
+CP00033,SME,Construction,Casablanca-Settat,2021-01,3
+CP00911,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,1
+CP02581,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,4
+CP00615,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,10
+CP02405,Mid-corporate,Business services,Casablanca-Settat,2021-01,5
+CP00025,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,3
+CP01764,SME,Business services,Marrakech-Safi,2021-01,11
+CP02722,SME,Business services,Marrakech-Safi,2021-01,2
+CP02302,SME,Manufacturing,Casablanca-Settat,2021-01,2
+CP00203,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,11
+CP00997,SME,Business services,Casablanca-Settat,2021-01,4
+CP02429,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,1
+CP01221,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,6
+CP01660,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,9
+CP02794,SME,Tourism & hospitality,Casablanca-Settat,2021-01,10
+CP02993,SME,Construction,Oriental,2023-05,2
+CP02097,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,4
+CP01914,Mid-corporate,Transport & logistics,Fez-Meknes,2021-01,8
+CP02307,Large corporate,Manufacturing,Casablanca-Settat,2021-01,8
+CP02076,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP02661,Large corporate,Construction,Oriental,2021-01,5
+CP02949,SME,Construction,Casablanca-Settat,2021-01,11
+CP02416,SME,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP01208,SME,Tourism & hospitality,Other regions,2021-01,10
+CP02853,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,12
+CP00914,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,9
+CP01305,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,6
+CP01240,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,5
+CP02797,SME,Business services,Casablanca-Settat,2021-01,6
+CP01848,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP00609,SME,Construction,Souss-Massa,2021-01,3
+CP02519,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP01541,SME,Construction,Casablanca-Settat,2023-07,7
+CP02098,SME,Business services,Casablanca-Settat,2021-01,6
+CP00135,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP00399,Mid-corporate,Business services,Souss-Massa,2021-01,1
+CP00312,Property developer,Real estate development,Casablanca-Settat,2021-01,11
+CP01805,SME,Business services,Casablanca-Settat,2021-01,12
+CP01000,Mid-corporate,Construction,Fez-Meknes,2021-01,3
+CP01129,Large corporate,Business services,Souss-Massa,2022-03,4
+CP00027,Property developer,Real estate development,Souss-Massa,2021-05,8
+CP02651,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,1
+CP02305,Property developer,Real estate development,Casablanca-Settat,2021-01,2
+CP00949,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,11
+CP00419,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,3
+CP00679,SME,Business services,Souss-Massa,2021-01,7
+CP00491,SME,Business services,Casablanca-Settat,2021-01,11
+CP02759,SME,Construction,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP02281,SME,Agriculture & agrifood,Souss-Massa,2022-05,4
+CP01503,SME,Agriculture & agrifood,Other regions,2021-01,2
+CP02244,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP01410,Mid-corporate,Transport & logistics,Oriental,2021-01,5
+CP01226,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,12
+CP02421,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP01504,SME,Transport & logistics,Casablanca-Settat,2021-01,1
+CP00803,SME,Manufacturing,Other regions,2021-01,4
+CP01291,Mid-corporate,Transport & logistics,Souss-Massa,2021-01,9
+CP01356,Large corporate,Construction,Casablanca-Settat,2021-01,9
+CP02482,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP01911,Large corporate,Construction,Casablanca-Settat,2021-01,3
+CP01894,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP01697,SME,Business services,Fez-Meknes,2021-01,3
+CP00005,SME,Transport & logistics,Casablanca-Settat,2021-01,9
+CP02788,SME,Real estate services,Marrakech-Safi,2021-01,1
+CP02434,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,10
+CP01272,Property developer,Real estate development,Casablanca-Settat,2021-01,4
+CP01120,SME,Tourism & hospitality,Casablanca-Settat,2021-01,6
+CP02806,Mid-corporate,Energy & utilities,Other regions,2021-01,3
+CP00818,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP00472,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,10
+CP00593,SME,Manufacturing,Casablanca-Settat,2021-01,3
+CP01264,SME,Tourism & hospitality,Souss-Massa,2021-01,7
+CP01960,Property developer,Real estate development,Fez-Meknes,2021-01,1
+CP01575,SME,Manufacturing,Fez-Meknes,2022-06,3
+CP02701,Large corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP02012,Mid-corporate,Real estate services,Souss-Massa,2021-01,7
+CP02151,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP01634,SME,Manufacturing,Marrakech-Safi,2021-01,3
+CP02977,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP01938,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-07,6
+CP02182,Property developer,Real estate development,Other regions,2021-01,2
+CP00636,SME,Energy & utilities,Other regions,2021-01,11
+CP02351,Mid-corporate,Real estate services,Rabat-Sale-Kenitra,2021-01,4
+CP01810,Large corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,9
+CP02258,SME,Business services,Souss-Massa,2021-01,2
+CP02667,SME,Wholesale & retail trade,Other regions,2021-01,8
+CP02662,Property developer,Real estate development,Marrakech-Safi,2021-01,3
+CP00217,SME,Manufacturing,Casablanca-Settat,2021-01,4
+CP02410,SME,Manufacturing,Casablanca-Settat,2021-01,5
+CP02984,SME,Real estate services,Souss-Massa,2021-01,2
+CP00495,SME,Transport & logistics,Marrakech-Safi,2021-01,2
+CP02111,Mid-corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,10
+CP00697,Mid-corporate,Business services,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP01158,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,7
+CP02034,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP00958,SME,Wholesale & retail trade,Fez-Meknes,2021-01,8
+CP00894,SME,Manufacturing,Casablanca-Settat,2022-10,8
+CP02200,Mid-corporate,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP02366,Property developer,Real estate development,Marrakech-Safi,2021-01,8
+CP00976,SME,Tourism & hospitality,Fez-Meknes,2021-01,5
+CP00792,SME,Manufacturing,Casablanca-Settat,2021-01,4
+CP00856,SME,Real estate services,Marrakech-Safi,2021-01,10
+CP01220,Large corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,6
+CP02880,SME,Energy & utilities,Casablanca-Settat,2021-01,7
+CP00920,SME,Manufacturing,Casablanca-Settat,2021-01,10
+CP02744,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,3
+CP00761,SME,Transport & logistics,Oriental,2021-01,3
+CP00587,SME,Wholesale & retail trade,Souss-Massa,2023-11,1
+CP01891,SME,Manufacturing,Casablanca-Settat,2021-01,1
+CP01534,SME,Manufacturing,Fez-Meknes,2021-01,8
+CP02632,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,7
+CP02252,Large corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,4
+CP01485,Mid-corporate,Wholesale & retail trade,Souss-Massa,2021-01,3
+CP01034,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,9
+CP00041,Property developer,Real estate development,Casablanca-Settat,2023-05,2
+CP02400,SME,Construction,Casablanca-Settat,2021-01,9
+CP00768,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,11
+CP01250,Property developer,Real estate development,Oriental,2023-09,6
+CP00786,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,6
+CP02623,Mid-corporate,Manufacturing,Casablanca-Settat,2023-06,7
+CP02616,Mid-corporate,Manufacturing,Casablanca-Settat,2023-12,2
+CP02306,SME,Construction,Souss-Massa,2021-01,8
+CP02456,SME,Tourism & hospitality,Casablanca-Settat,2021-01,5
+CP01050,SME,Construction,Marrakech-Safi,2021-01,6
+CP00386,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP00467,SME,Real estate services,Casablanca-Settat,2021-01,11
+CP00794,SME,Energy & utilities,Casablanca-Settat,2021-01,5
+CP02053,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,1
+CP01865,Property developer,Real estate development,Casablanca-Settat,2021-01,10
+CP00350,Large corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,12
+CP01364,SME,Transport & logistics,Fez-Meknes,2021-01,7
+CP01808,SME,Transport & logistics,Casablanca-Settat,2021-01,1
+CP01594,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,12
+CP02285,SME,Manufacturing,Casablanca-Settat,2021-01,3
+CP02931,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP00131,SME,Transport & logistics,Marrakech-Safi,2021-01,9
+CP02640,SME,Transport & logistics,Marrakech-Safi,2021-01,4
+CP02457,Large corporate,Manufacturing,Marrakech-Safi,2021-01,2
+CP02108,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,9
+CP00506,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,4
+CP01396,SME,Business services,Rabat-Sale-Kenitra,2021-01,11
+CP00656,Mid-corporate,Energy & utilities,Other regions,2021-01,2
+CP00162,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2022-11,11
+CP01506,SME,Construction,Souss-Massa,2021-01,9
+CP00575,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP00237,Large corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-09,7
+CP01903,Large corporate,Transport & logistics,Marrakech-Safi,2021-01,12
+CP00441,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,1
+CP00410,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP01994,Large corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,6
+CP00063,SME,Manufacturing,Other regions,2021-01,12
+CP01324,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP01619,Mid-corporate,Construction,Souss-Massa,2021-01,9
+CP00443,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP01234,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,5
+CP01472,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,2
+CP00412,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,5
+CP01374,SME,Manufacturing,Oriental,2021-01,8
+CP01481,Large corporate,Construction,Souss-Massa,2023-07,8
+CP02170,SME,Transport & logistics,Other regions,2021-01,6
+CP00156,Mid-corporate,Real estate services,Other regions,2021-01,12
+CP00024,Large corporate,Construction,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP02264,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,8
+CP02338,SME,Business services,Fez-Meknes,2021-01,12
+CP00563,SME,Real estate services,Casablanca-Settat,2021-01,12
+CP02562,SME,Wholesale & retail trade,Fez-Meknes,2021-01,5
+CP00558,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,4
+CP01099,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP00684,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,7
+CP01081,SME,Business services,Casablanca-Settat,2021-01,6
+CP00590,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,9
+CP02713,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,8
+CP00075,SME,Business services,Casablanca-Settat,2021-01,11
+CP01976,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,5
+CP00130,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP02204,SME,Business services,Rabat-Sale-Kenitra,2021-01,3
+CP00212,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP02711,Mid-corporate,Tourism & hospitality,Fez-Meknes,2021-01,2
+CP02286,Property developer,Real estate development,Casablanca-Settat,2021-01,10
+CP02480,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,2
+CP01142,Property developer,Real estate development,Casablanca-Settat,2021-01,11
+CP01895,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,12
+CP00634,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,10
+CP01192,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP01804,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,6
+CP00035,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,3
+CP01395,SME,Construction,Casablanca-Settat,2021-01,12
+CP00469,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,7
+CP00076,Large corporate,Manufacturing,Casablanca-Settat,2021-01,10
+CP00449,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP01196,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,9
+CP02406,SME,Manufacturing,Marrakech-Safi,2021-08,5
+CP02803,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,6
+CP02740,Property developer,Real estate development,Casablanca-Settat,2021-01,6
+CP00132,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,8
+CP01614,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,9
+CP01495,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,3
+CP01389,Mid-corporate,Agriculture & agrifood,Fez-Meknes,2021-12,3
+CP02188,Mid-corporate,Tourism & hospitality,Marrakech-Safi,2021-01,1
+CP00623,Large corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,7
+CP01371,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,9
+CP01318,SME,Tourism & hospitality,Fez-Meknes,2021-01,3
+CP00869,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,9
+CP02293,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-07,1
+CP02063,SME,Construction,Fez-Meknes,2022-10,11
+CP00194,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,9
+CP01692,SME,Transport & logistics,Casablanca-Settat,2021-01,9
+CP02839,Large corporate,Manufacturing,Casablanca-Settat,2021-01,9
+CP02789,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP01161,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP00249,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP01095,SME,Energy & utilities,Rabat-Sale-Kenitra,2023-10,3
+CP01070,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP02083,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP01455,Large corporate,Energy & utilities,Fez-Meknes,2021-01,4
+CP00251,Mid-corporate,Business services,Casablanca-Settat,2021-01,12
+CP01987,Property developer,Real estate development,Marrakech-Safi,2021-01,3
+CP02718,SME,Construction,Rabat-Sale-Kenitra,2021-01,8
+CP00167,SME,Manufacturing,Casablanca-Settat,2023-06,9
+CP01653,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,12
+CP01227,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,7
+CP01180,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,12
+CP01678,SME,Business services,Fez-Meknes,2021-01,4
+CP02957,Property developer,Real estate development,Souss-Massa,2023-07,10
+CP01006,Mid-corporate,Construction,Marrakech-Safi,2021-01,3
+CP00019,Mid-corporate,Construction,Rabat-Sale-Kenitra,2021-01,12
+CP01618,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,10
+CP02641,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP00185,SME,Transport & logistics,Casablanca-Settat,2021-01,1
+CP00530,SME,Manufacturing,Fez-Meknes,2021-01,6
+CP01610,Mid-corporate,Manufacturing,Fez-Meknes,2021-01,2
+CP01365,SME,Tourism & hospitality,Casablanca-Settat,2021-01,12
+CP01461,Property developer,Real estate development,Souss-Massa,2021-01,5
+CP01893,Large corporate,Tourism & hospitality,Fez-Meknes,2021-01,10
+CP01818,SME,Energy & utilities,Rabat-Sale-Kenitra,2021-01,11
+CP00204,Mid-corporate,Tourism & hospitality,Souss-Massa,2021-01,2
+CP01601,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP01700,Property developer,Real estate development,Casablanca-Settat,2022-01,4
+CP00020,Property developer,Real estate development,Casablanca-Settat,2021-01,2
+CP00819,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,4
+CP01202,SME,Tourism & hospitality,Casablanca-Settat,2021-01,7
+CP00274,SME,Tourism & hospitality,Oriental,2021-01,11
+CP00285,SME,Energy & utilities,Casablanca-Settat,2021-01,9
+CP02981,SME,Tourism & hospitality,Casablanca-Settat,2021-01,3
+CP02256,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP01131,SME,Wholesale & retail trade,Casablanca-Settat,2022-06,4
+CP01699,Property developer,Real estate development,Marrakech-Safi,2021-01,9
+CP00588,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,7
+CP00906,SME,Manufacturing,Other regions,2021-01,1
+CP02571,Large corporate,Business services,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP02346,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,1
+CP00062,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-03,12
+CP02670,Mid-corporate,Construction,Casablanca-Settat,2021-03,7
+CP02601,Property developer,Real estate development,Oriental,2021-01,6
+CP02566,Mid-corporate,Construction,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP01592,SME,Construction,Rabat-Sale-Kenitra,2021-01,3
+CP00434,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,1
+CP02999,SME,Construction,Fez-Meknes,2021-01,4
+CP01524,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP00200,SME,Agriculture & agrifood,Marrakech-Safi,2021-05,10
+CP01032,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,10
+CP00793,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,8
+CP00358,SME,Energy & utilities,Rabat-Sale-Kenitra,2022-05,11
+CP01299,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,6
+CP02502,SME,Real estate services,Casablanca-Settat,2021-01,3
+CP01640,Large corporate,Transport & logistics,Oriental,2022-06,4
+CP00480,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP02908,Mid-corporate,Business services,Fez-Meknes,2021-01,11
+CP00287,Large corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,8
+CP02970,SME,Business services,Casablanca-Settat,2021-01,10
+CP02515,Mid-corporate,Tourism & hospitality,Marrakech-Safi,2021-01,4
+CP00053,SME,Construction,Rabat-Sale-Kenitra,2021-01,9
+CP02222,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP01434,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,6
+CP02576,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02959,SME,Manufacturing,Marrakech-Safi,2021-01,12
+CP00451,Mid-corporate,Manufacturing,Casablanca-Settat,2021-09,7
+CP02298,SME,Tourism & hospitality,Fez-Meknes,2021-01,9
+CP00632,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,8
+CP01345,Mid-corporate,Business services,Casablanca-Settat,2021-07,6
+CP00398,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2022-05,12
+CP01860,Mid-corporate,Manufacturing,Fez-Meknes,2021-01,12
+CP02536,SME,Construction,Casablanca-Settat,2021-01,4
+CP01799,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,11
+CP01709,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,6
+CP02934,Mid-corporate,Business services,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP01473,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,7
+CP01780,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP01066,SME,Wholesale & retail trade,Oriental,2021-01,11
+CP02946,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,6
+CP01335,SME,Tourism & hospitality,Casablanca-Settat,2021-01,9
+CP01269,SME,Business services,Rabat-Sale-Kenitra,2021-01,7
+CP01669,Mid-corporate,Tourism & hospitality,Marrakech-Safi,2021-01,10
+CP01201,SME,Real estate services,Casablanca-Settat,2023-07,3
+CP01329,Large corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,9
+CP01025,SME,Construction,Casablanca-Settat,2021-01,8
+CP02707,Mid-corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,6
+CP02939,SME,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP00418,SME,Tourism & hospitality,Other regions,2021-01,9
+CP01864,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,5
+CP01332,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP01228,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-06,12
+CP01217,SME,Business services,Casablanca-Settat,2021-01,6
+CP01577,Mid-corporate,Business services,Casablanca-Settat,2021-01,2
+CP02321,Mid-corporate,Wholesale & retail trade,Other regions,2021-01,3
+CP02087,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP00560,SME,Manufacturing,Marrakech-Safi,2021-01,4
+CP00414,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP01104,Property developer,Real estate development,Fez-Meknes,2021-01,6
+CP01418,SME,Energy & utilities,Casablanca-Settat,2021-01,1
+CP00258,SME,Agriculture & agrifood,Oriental,2021-01,7
+CP02263,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2022-07,1
+CP00273,SME,Business services,Casablanca-Settat,2021-01,11
+CP00969,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP02558,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP01210,SME,Transport & logistics,Casablanca-Settat,2021-01,6
+CP01203,SME,Construction,Casablanca-Settat,2023-05,3
+CP00756,SME,Construction,Marrakech-Safi,2021-01,4
+CP02808,Mid-corporate,Manufacturing,Marrakech-Safi,2023-05,2
+CP00252,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,9
+CP00101,SME,Transport & logistics,Fez-Meknes,2021-01,12
+CP02136,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,6
+CP02802,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP00707,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-12,1
+CP01723,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP01276,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,5
+CP00760,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,4
+CP00088,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,2
+CP00391,SME,Manufacturing,Casablanca-Settat,2021-01,8
+CP01351,Mid-corporate,Business services,Marrakech-Safi,2021-01,1
+CP00865,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,11
+CP00038,Property developer,Real estate development,Fez-Meknes,2021-01,3
+CP00967,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,1
+CP00487,Mid-corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,9
+CP00870,Large corporate,Construction,Casablanca-Settat,2021-05,5
+CP01238,Property developer,Real estate development,Marrakech-Safi,2021-01,9
+CP01980,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,1
+CP01856,SME,Agriculture & agrifood,Casablanca-Settat,2021-05,11
+CP02334,SME,Construction,Fez-Meknes,2021-01,4
+CP00125,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,10
+CP00780,Mid-corporate,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP01525,Property developer,Real estate development,Casablanca-Settat,2021-01,7
+CP01362,Property developer,Real estate development,Casablanca-Settat,2021-12,5
+CP01150,SME,Business services,Rabat-Sale-Kenitra,2021-01,4
+CP00393,Mid-corporate,Business services,Marrakech-Safi,2021-01,9
+CP01578,Large corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,1
+CP00456,Property developer,Real estate development,Casablanca-Settat,2021-01,2
+CP01296,SME,Manufacturing,Casablanca-Settat,2021-03,8
+CP02260,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,1
+CP00866,Large corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP00565,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP01447,SME,Manufacturing,Casablanca-Settat,2021-01,4
+CP00690,Property developer,Real estate development,Casablanca-Settat,2021-01,12
+CP00144,Property developer,Real estate development,Casablanca-Settat,2021-01,12
+CP01880,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,1
+CP02628,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2022-09,3
+CP02375,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2022-01,11
+CP01270,SME,Business services,Marrakech-Safi,2021-01,1
+CP00198,SME,Wholesale & retail trade,Other regions,2023-05,6
+CP01572,Mid-corporate,Wholesale & retail trade,Oriental,2021-01,12
+CP01193,SME,Manufacturing,Casablanca-Settat,2021-01,8
+CP01766,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,4
+CP01803,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,1
+CP02968,Mid-corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,5
+CP01213,SME,Transport & logistics,Casablanca-Settat,2021-01,7
+CP02225,SME,Transport & logistics,Casablanca-Settat,2021-01,1
+CP00556,SME,Manufacturing,Casablanca-Settat,2021-01,7
+CP01121,SME,Business services,Casablanca-Settat,2021-01,5
+CP02996,Large corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,4
+CP02296,SME,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00542,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,11
+CP01449,Mid-corporate,Wholesale & retail trade,Souss-Massa,2021-01,9
+CP02217,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP00664,SME,Manufacturing,Casablanca-Settat,2021-01,6
+CP02637,SME,Business services,Casablanca-Settat,2021-01,1
+CP02152,SME,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP02762,Mid-corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,1
+CP01769,SME,Tourism & hospitality,Casablanca-Settat,2021-01,5
+CP00009,SME,Transport & logistics,Oriental,2021-01,6
+CP01584,SME,Business services,Casablanca-Settat,2021-01,8
+CP00401,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,5
+CP00016,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP01642,Large corporate,Manufacturing,Oriental,2021-01,9
+CP01056,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP00322,Mid-corporate,Business services,Oriental,2021-01,2
+CP02181,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,9
+CP00494,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02019,SME,Manufacturing,Fez-Meknes,2021-01,11
+CP00993,Large corporate,Business services,Rabat-Sale-Kenitra,2021-01,9
+CP00513,Property developer,Real estate development,Casablanca-Settat,2021-01,11
+CP01812,SME,Manufacturing,Other regions,2021-01,8
+CP02905,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,11
+CP02001,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP02590,SME,Real estate services,Fez-Meknes,2021-01,7
+CP00444,SME,Wholesale & retail trade,Souss-Massa,2021-01,12
+CP02964,SME,Transport & logistics,Other regions,2021-01,10
+CP01786,Mid-corporate,Business services,Souss-Massa,2021-01,5
+CP02144,Mid-corporate,Business services,Casablanca-Settat,2021-01,12
+CP02472,Mid-corporate,Energy & utilities,Souss-Massa,2021-01,4
+CP00044,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,1
+CP02055,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP01734,SME,Manufacturing,Casablanca-Settat,2021-01,5
+CP01308,SME,Wholesale & retail trade,Fez-Meknes,2021-01,1
+CP00980,SME,Transport & logistics,Rabat-Sale-Kenitra,2022-07,3
+CP00437,SME,Tourism & hospitality,Fez-Meknes,2021-01,1
+CP01370,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP02745,SME,Manufacturing,Casablanca-Settat,2021-01,11
+CP00847,Mid-corporate,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,12
+CP01944,SME,Business services,Casablanca-Settat,2021-02,3
+CP00861,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP01246,Mid-corporate,Business services,Casablanca-Settat,2021-01,7
+CP02176,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,4
+CP01001,Mid-corporate,Business services,Casablanca-Settat,2021-01,9
+CP01441,Large corporate,Manufacturing,Casablanca-Settat,2021-01,12
+CP01019,Mid-corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP00341,SME,Manufacturing,Casablanca-Settat,2021-01,1
+CP00072,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,11
+CP01708,Mid-corporate,Business services,Casablanca-Settat,2021-01,3
+CP01757,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,3
+CP00539,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP01949,SME,Transport & logistics,Casablanca-Settat,2021-01,10
+CP01038,SME,Construction,Casablanca-Settat,2021-01,10
+CP02969,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP02654,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,11
+CP01531,Large corporate,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP02270,Property developer,Real estate development,Casablanca-Settat,2023-12,4
+CP01347,SME,Agriculture & agrifood,Souss-Massa,2021-01,9
+CP02166,Property developer,Real estate development,Casablanca-Settat,2021-01,5
+CP02692,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,9
+CP02354,Property developer,Real estate development,Souss-Massa,2021-01,6
+CP01831,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP02148,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP01280,Mid-corporate,Manufacturing,Souss-Massa,2021-01,8
+CP01756,Property developer,Real estate development,Casablanca-Settat,2022-08,11
+CP00726,Property developer,Real estate development,Fez-Meknes,2022-02,10
+CP02487,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP01616,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,9
+CP00646,SME,Manufacturing,Casablanca-Settat,2021-01,3
+CP02635,Large corporate,Wholesale & retail trade,Casablanca-Settat,2023-01,8
+CP02531,Mid-corporate,Business services,Oriental,2021-01,5
+CP01109,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,12
+CP00338,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP01971,Mid-corporate,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP01046,SME,Manufacturing,Marrakech-Safi,2021-01,11
+CP00380,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,9
+CP01784,SME,Construction,Fez-Meknes,2021-01,3
+CP00665,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,4
+CP00477,Large corporate,Wholesale & retail trade,Fez-Meknes,2021-01,3
+CP00799,SME,Construction,Casablanca-Settat,2021-01,4
+CP01414,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP02673,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP00522,Property developer,Real estate development,Casablanca-Settat,2021-01,7
+CP02627,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,5
+CP00746,SME,Transport & logistics,Casablanca-Settat,2021-01,5
+CP01767,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,12
+CP02288,SME,Wholesale & retail trade,Souss-Massa,2021-01,3
+CP01369,SME,Wholesale & retail trade,Fez-Meknes,2021-01,10
+CP01105,Property developer,Real estate development,Oriental,2021-01,12
+CP01343,Mid-corporate,Transport & logistics,Souss-Massa,2021-01,11
+CP00282,SME,Energy & utilities,Rabat-Sale-Kenitra,2023-05,9
+CP00421,Large corporate,Energy & utilities,Casablanca-Settat,2021-01,11
+CP01733,SME,Manufacturing,Souss-Massa,2021-01,3
+CP00712,Large corporate,Wholesale & retail trade,Souss-Massa,2021-01,12
+CP01892,SME,Manufacturing,Other regions,2021-01,2
+CP00594,Mid-corporate,Wholesale & retail trade,Marrakech-Safi,2022-08,1
+CP02840,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP02021,SME,Agriculture & agrifood,Oriental,2021-01,8
+CP00324,Mid-corporate,Manufacturing,Oriental,2021-01,3
+CP00918,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02474,SME,Manufacturing,Fez-Meknes,2021-01,2
+CP02717,SME,Construction,Rabat-Sale-Kenitra,2021-01,9
+CP00458,Mid-corporate,Transport & logistics,Oriental,2021-01,3
+CP00769,SME,Business services,Casablanca-Settat,2022-02,7
+CP01359,SME,Wholesale & retail trade,Fez-Meknes,2021-01,2
+CP01382,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP02872,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,5
+CP01717,SME,Manufacturing,Casablanca-Settat,2021-01,8
+CP00838,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,6
+CP02832,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP02248,SME,Agriculture & agrifood,Oriental,2022-07,6
+CP01847,Large corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,1
+CP02173,SME,Business services,Souss-Massa,2021-01,10
+CP02360,Property developer,Real estate development,Casablanca-Settat,2021-01,8
+CP00555,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,4
+CP00306,SME,Construction,Marrakech-Safi,2021-01,2
+CP00464,Property developer,Real estate development,Marrakech-Safi,2021-01,11
+CP00528,SME,Business services,Rabat-Sale-Kenitra,2021-01,4
+CP02320,SME,Agriculture & agrifood,Fez-Meknes,2021-01,11
+CP01751,SME,Business services,Fez-Meknes,2021-01,10
+CP01755,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,12
+CP01686,SME,Manufacturing,Oriental,2021-01,8
+CP02331,SME,Tourism & hospitality,Marrakech-Safi,2021-01,3
+CP01399,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2022-12,1
+CP01498,SME,Business services,Casablanca-Settat,2021-01,3
+CP01645,SME,Manufacturing,Casablanca-Settat,2021-01,6
+CP01436,SME,Wholesale & retail trade,Casablanca-Settat,2022-05,8
+CP02570,SME,Tourism & hospitality,Marrakech-Safi,2021-01,11
+CP02292,SME,Tourism & hospitality,Marrakech-Safi,2021-01,2
+CP00330,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,8
+CP01711,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2023-10,2
+CP00721,Mid-corporate,Energy & utilities,Casablanca-Settat,2021-01,6
+CP01806,SME,Transport & logistics,Casablanca-Settat,2021-01,1
+CP00220,SME,Transport & logistics,Oriental,2021-01,5
+CP02960,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,8
+CP01064,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,9
+CP01096,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2023-11,10
+CP01004,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,7
+CP00907,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,4
+CP02073,SME,Agriculture & agrifood,Oriental,2021-01,11
+CP01527,Mid-corporate,Construction,Tangier-Tetouan-Al Hoceima,2022-03,12
+CP02731,SME,Construction,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00837,SME,Transport & logistics,Casablanca-Settat,2021-01,10
+CP02379,SME,Construction,Rabat-Sale-Kenitra,2021-01,10
+CP00403,SME,Tourism & hospitality,Casablanca-Settat,2021-01,1
+CP00433,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,7
+CP00329,Mid-corporate,Manufacturing,Fez-Meknes,2021-01,5
+CP01197,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,4
+CP01896,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,1
+CP02259,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,3
+CP00382,Mid-corporate,Business services,Fez-Meknes,2021-01,11
+CP02857,SME,Manufacturing,Casablanca-Settat,2021-01,11
+CP02082,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,9
+CP00566,Mid-corporate,Wholesale & retail trade,Fez-Meknes,2021-01,2
+CP02549,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,9
+CP01923,Property developer,Real estate development,Souss-Massa,2021-01,2
+CP00737,SME,Real estate services,Casablanca-Settat,2021-01,9
+CP00973,SME,Manufacturing,Marrakech-Safi,2021-01,1
+CP02807,SME,Transport & logistics,Other regions,2022-10,4
+CP00968,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,2
+CP01194,SME,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00992,Property developer,Real estate development,Casablanca-Settat,2021-01,7
+CP00853,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,12
+CP01090,SME,Agriculture & agrifood,Souss-Massa,2021-01,1
+CP00170,Large corporate,Manufacturing,Marrakech-Safi,2023-04,9
+CP00106,SME,Transport & logistics,Souss-Massa,2021-01,6
+CP02172,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,6
+CP00439,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,11
+CP00677,SME,Tourism & hospitality,Casablanca-Settat,2021-01,1
+CP00342,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,12
+CP01926,SME,Construction,Souss-Massa,2021-01,1
+CP00963,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2023-08,5
+CP01573,SME,Manufacturing,Casablanca-Settat,2021-01,2
+CP00110,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,7
+CP01184,SME,Manufacturing,Marrakech-Safi,2021-01,8
+CP00798,SME,Energy & utilities,Souss-Massa,2021-01,8
+CP02072,Property developer,Real estate development,Casablanca-Settat,2022-01,10
+CP00633,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP01625,Property developer,Real estate development,Casablanca-Settat,2021-01,12
+CP00703,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,6
+CP02253,SME,Tourism & hospitality,Other regions,2021-01,3
+CP01997,Large corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,2
+CP01108,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,4
+CP01133,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP01883,Large corporate,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,1
+CP00860,SME,Real estate services,Other regions,2021-01,12
+CP01206,SME,Manufacturing,Rabat-Sale-Kenitra,2021-12,12
+CP02588,Property developer,Real estate development,Casablanca-Settat,2021-01,2
+CP00683,SME,Manufacturing,Casablanca-Settat,2023-08,10
+CP00840,SME,Wholesale & retail trade,Other regions,2021-12,8
+CP00086,SME,Business services,Other regions,2023-01,6
+CP00935,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP01450,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP02847,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP02385,SME,Construction,Rabat-Sale-Kenitra,2021-01,7
+CP00546,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,2
+CP02591,SME,Wholesale & retail trade,Fez-Meknes,2021-01,4
+CP00095,SME,Business services,Souss-Massa,2021-01,12
+CP00863,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP00371,Mid-corporate,Real estate services,Rabat-Sale-Kenitra,2022-11,8
+CP00995,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP00947,SME,Wholesale & retail trade,Casablanca-Settat,2022-04,6
+CP01423,Large corporate,Business services,Casablanca-Settat,2021-01,3
+CP00034,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,7
+CP02445,SME,Wholesale & retail trade,Other regions,2021-01,7
+CP01107,Property developer,Real estate development,Casablanca-Settat,2021-01,8
+CP00070,SME,Agriculture & agrifood,Fez-Meknes,2021-01,4
+CP01185,SME,Business services,Casablanca-Settat,2021-01,7
+CP00068,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2022-11,9
+CP00216,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,9
+CP00463,SME,Transport & logistics,Souss-Massa,2021-01,7
+CP00669,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,4
+CP01309,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,7
+CP01681,Large corporate,Construction,Marrakech-Safi,2021-01,7
+CP02607,Property developer,Real estate development,Marrakech-Safi,2021-01,12
+CP02930,Mid-corporate,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP02586,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP02213,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,9
+CP00264,Property developer,Real estate development,Fez-Meknes,2021-01,8
+CP02315,SME,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP00178,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP02196,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP02618,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,9
+CP02918,SME,Business services,Oriental,2022-07,12
+CP01439,Mid-corporate,Real estate services,Marrakech-Safi,2021-01,7
+CP02035,SME,Manufacturing,Casablanca-Settat,2021-02,7
+CP00599,Property developer,Real estate development,Souss-Massa,2021-01,3
+CP01191,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,6
+CP00084,SME,Business services,Casablanca-Settat,2021-01,1
+CP02069,SME,Construction,Casablanca-Settat,2021-01,7
+CP02611,SME,Tourism & hospitality,Marrakech-Safi,2021-01,9
+CP02131,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP01889,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,8
+CP02208,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,10
+CP01427,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,8
+CP01688,SME,Agriculture & agrifood,Oriental,2021-01,10
+CP02530,SME,Construction,Casablanca-Settat,2021-01,6
+CP02044,SME,Wholesale & retail trade,Casablanca-Settat,2023-09,8
+CP01040,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP00253,SME,Energy & utilities,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP00899,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,7
+CP02700,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP02384,Mid-corporate,Manufacturing,Souss-Massa,2021-01,3
+CP00526,Property developer,Real estate development,Fez-Meknes,2021-01,4
+CP01858,Property developer,Real estate development,Fez-Meknes,2022-06,7
+CP00423,SME,Transport & logistics,Casablanca-Settat,2021-02,8
+CP01710,SME,Tourism & hospitality,Casablanca-Settat,2021-01,7
+CP01083,SME,Construction,Rabat-Sale-Kenitra,2022-01,3
+CP02589,Mid-corporate,Construction,Casablanca-Settat,2021-01,10
+CP01629,Mid-corporate,Manufacturing,Marrakech-Safi,2022-01,7
+CP02697,Large corporate,Transport & logistics,Casablanca-Settat,2021-01,6
+CP02383,Property developer,Real estate development,Casablanca-Settat,2023-09,11
+CP00916,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,6
+CP02228,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP02010,Large corporate,Energy & utilities,Casablanca-Settat,2022-04,12
+CP02103,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP01319,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,11
+CP00003,SME,Energy & utilities,Casablanca-Settat,2021-01,7
+CP01402,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP01736,Mid-corporate,Energy & utilities,Fez-Meknes,2021-01,5
+CP01679,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,11
+CP02631,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,12
+CP01741,SME,Construction,Rabat-Sale-Kenitra,2021-01,2
+CP00214,Mid-corporate,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,12
+CP01235,Mid-corporate,Manufacturing,Souss-Massa,2021-01,11
+CP02760,Mid-corporate,Construction,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02002,Large corporate,Construction,Other regions,2021-01,3
+CP01900,SME,Wholesale & retail trade,Fez-Meknes,2021-01,8
+CP00889,SME,Agriculture & agrifood,Casablanca-Settat,2023-06,6
+CP01816,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP01863,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP02555,SME,Real estate services,Casablanca-Settat,2022-02,8
+CP01334,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,2
+CP00937,SME,Manufacturing,Casablanca-Settat,2021-01,5
+CP01342,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,11
+CP02938,Large corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,6
+CP01882,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP01635,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP00082,SME,Business services,Other regions,2021-01,2
+CP01513,SME,Manufacturing,Casablanca-Settat,2021-01,12
+CP01440,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP00029,SME,Business services,Oriental,2021-01,2
+CP02033,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP01963,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP02643,SME,Construction,Rabat-Sale-Kenitra,2021-01,11
+CP02779,SME,Manufacturing,Casablanca-Settat,2021-01,7
+CP00724,Mid-corporate,Construction,Souss-Massa,2021-08,11
+CP02907,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP02471,Large corporate,Construction,Rabat-Sale-Kenitra,2021-01,1
+CP01744,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,6
+CP02489,Property developer,Real estate development,Casablanca-Settat,2021-01,4
+CP00215,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP00138,Property developer,Real estate development,Marrakech-Safi,2021-01,5
+CP01103,Large corporate,Construction,Rabat-Sale-Kenitra,2021-01,5
+CP02897,SME,Business services,Casablanca-Settat,2021-01,7
+CP02205,SME,Construction,Casablanca-Settat,2021-01,12
+CP00725,SME,Transport & logistics,Souss-Massa,2021-01,1
+CP01115,Large corporate,Construction,Casablanca-Settat,2021-01,7
+CP00275,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,5
+CP00948,SME,Energy & utilities,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP02595,Property developer,Real estate development,Fez-Meknes,2021-01,10
+CP00171,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP00346,Mid-corporate,Business services,Fez-Meknes,2022-08,3
+CP00362,Mid-corporate,Manufacturing,Casablanca-Settat,2022-11,10
+CP01021,SME,Business services,Souss-Massa,2023-12,9
+CP00232,Mid-corporate,Transport & logistics,Souss-Massa,2021-01,9
+CP02851,Large corporate,Real estate services,Rabat-Sale-Kenitra,2021-01,6
+CP02390,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP00375,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,1
+CP00265,SME,Business services,Rabat-Sale-Kenitra,2021-01,1
+CP00056,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,3
+CP02161,SME,Manufacturing,Casablanca-Settat,2021-01,7
+CP01330,Property developer,Real estate development,Other regions,2021-01,2
+CP01314,Property developer,Real estate development,Casablanca-Settat,2023-01,9
+CP02756,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02084,SME,Manufacturing,Casablanca-Settat,2021-01,5
+CP00121,Mid-corporate,Construction,Casablanca-Settat,2021-01,2
+CP02250,Mid-corporate,Construction,Casablanca-Settat,2021-01,7
+CP00181,SME,Energy & utilities,Casablanca-Settat,2021-10,10
+CP01288,SME,Construction,Tangier-Tetouan-Al Hoceima,2022-04,5
+CP02301,SME,Construction,Oriental,2021-01,10
+CP02844,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,4
+CP02963,SME,Manufacturing,Other regions,2021-01,1
+CP00854,Large corporate,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02702,SME,Energy & utilities,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP00874,Property developer,Real estate development,Casablanca-Settat,2021-01,11
+CP01713,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP00305,SME,Wholesale & retail trade,Fez-Meknes,2021-01,2
+CP00804,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,1
+CP02795,Property developer,Real estate development,Casablanca-Settat,2021-01,7
+CP00809,SME,Manufacturing,Fez-Meknes,2021-01,12
+CP02236,SME,Manufacturing,Casablanca-Settat,2021-01,12
+CP00578,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,4
+CP02191,SME,Construction,Casablanca-Settat,2021-01,5
+CP01789,SME,Manufacturing,Souss-Massa,2021-01,8
+CP01444,Property developer,Real estate development,Casablanca-Settat,2021-01,11
+CP02749,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP02377,Mid-corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP02843,SME,Construction,Casablanca-Settat,2021-01,10
+CP01874,SME,Manufacturing,Oriental,2021-01,1
+CP02944,Mid-corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP02407,SME,Transport & logistics,Casablanca-Settat,2021-01,8
+CP02088,Mid-corporate,Energy & utilities,Casablanca-Settat,2021-01,12
+CP02642,SME,Wholesale & retail trade,Souss-Massa,2021-01,3
+CP02210,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00091,Mid-corporate,Business services,Souss-Massa,2021-01,1
+CP00263,Large corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,1
+CP02593,SME,Manufacturing,Souss-Massa,2021-01,6
+CP01838,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,8
+CP00404,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP01482,SME,Agriculture & agrifood,Casablanca-Settat,2023-04,4
+CP02769,SME,Manufacturing,Casablanca-Settat,2021-01,5
+CP02698,SME,Wholesale & retail trade,Oriental,2021-01,2
+CP02520,SME,Wholesale & retail trade,Other regions,2023-09,3
+CP01540,SME,Manufacturing,Casablanca-Settat,2022-09,2
+CP02992,SME,Wholesale & retail trade,Oriental,2021-01,12
+CP00912,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP00288,SME,Tourism & hospitality,Casablanca-Settat,2021-01,8
+CP00343,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,9
+CP00531,SME,Manufacturing,Casablanca-Settat,2023-02,2
+CP02585,SME,Transport & logistics,Casablanca-Settat,2021-01,1
+CP02370,SME,Tourism & hospitality,Casablanca-Settat,2021-01,5
+CP02110,Mid-corporate,Construction,Casablanca-Settat,2021-01,12
+CP01065,SME,Manufacturing,Marrakech-Safi,2021-01,6
+CP02496,Mid-corporate,Transport & logistics,Fez-Meknes,2021-01,10
+CP01597,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP02154,SME,Transport & logistics,Casablanca-Settat,2021-01,4
+CP01712,Property developer,Real estate development,Marrakech-Safi,2021-01,10
+CP00755,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2022-06,6
+CP01694,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,9
+CP02090,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,9
+CP00462,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,9
+CP01339,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP00774,SME,Manufacturing,Fez-Meknes,2021-01,10
+CP00039,SME,Transport & logistics,Souss-Massa,2021-01,6
+CP00355,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP01130,SME,Construction,Oriental,2022-01,7
+CP00965,Mid-corporate,Wholesale & retail trade,Souss-Massa,2021-01,4
+CP00272,SME,Transport & logistics,Casablanca-Settat,2023-12,1
+CP00426,Mid-corporate,Energy & utilities,Marrakech-Safi,2021-01,5
+CP00602,Large corporate,Tourism & hospitality,Casablanca-Settat,2021-01,7
+CP02254,Mid-corporate,Real estate services,Rabat-Sale-Kenitra,2021-01,7
+CP02162,Mid-corporate,Transport & logistics,Casablanca-Settat,2023-01,5
+CP00408,Mid-corporate,Transport & logistics,Other regions,2021-01,9
+CP01438,Large corporate,Transport & logistics,Marrakech-Safi,2021-01,4
+CP02493,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP01026,SME,Business services,Casablanca-Settat,2023-09,4
+CP00139,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,12
+CP00396,SME,Business services,Marrakech-Safi,2021-01,8
+CP01877,Large corporate,Manufacturing,Souss-Massa,2021-01,7
+CP02428,Mid-corporate,Business services,Casablanca-Settat,2021-01,6
+CP00817,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,10
+CP02674,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP00308,SME,Real estate services,Casablanca-Settat,2023-03,10
+CP00519,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,2
+CP02343,SME,Manufacturing,Casablanca-Settat,2022-03,10
+CP01510,SME,Manufacturing,Casablanca-Settat,2021-01,12
+CP01163,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP02748,Mid-corporate,Agriculture & agrifood,Souss-Massa,2021-01,3
+CP02453,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,12
+CP00173,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,5
+CP00672,Property developer,Real estate development,Marrakech-Safi,2021-01,9
+CP02465,Mid-corporate,Wholesale & retail trade,Oriental,2021-01,3
+CP02534,Mid-corporate,Transport & logistics,Rabat-Sale-Kenitra,2021-01,6
+CP00689,SME,Business services,Casablanca-Settat,2021-01,9
+CP00390,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP00595,SME,Agriculture & agrifood,Casablanca-Settat,2023-10,6
+CP01002,Mid-corporate,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP02183,SME,Manufacturing,Casablanca-Settat,2023-04,5
+CP00146,SME,Manufacturing,Casablanca-Settat,2021-01,8
+CP01237,Mid-corporate,Construction,Casablanca-Settat,2021-01,11
+CP01982,Property developer,Real estate development,Marrakech-Safi,2021-01,11
+CP00483,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP00545,SME,Business services,Casablanca-Settat,2021-01,2
+CP00626,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,7
+CP01638,SME,Construction,Marrakech-Safi,2021-01,7
+CP00805,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,6
+CP01855,SME,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP02899,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00681,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,3
+CP00111,Property developer,Real estate development,Other regions,2021-01,12
+CP00416,Property developer,Real estate development,Souss-Massa,2021-12,11
+CP00816,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP02064,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,5
+CP02510,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP02216,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP02245,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,11
+CP00460,SME,Construction,Souss-Massa,2021-01,9
+CP02975,Mid-corporate,Energy & utilities,Fez-Meknes,2021-01,12
+CP02157,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,6
+CP01311,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,1
+CP00348,SME,Construction,Casablanca-Settat,2021-01,6
+CP01663,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,12
+CP00651,SME,Transport & logistics,Casablanca-Settat,2022-07,8
+CP00668,SME,Construction,Souss-Massa,2021-01,9
+CP02620,SME,Manufacturing,Fez-Meknes,2021-01,8
+CP00699,Property developer,Real estate development,Casablanca-Settat,2021-01,8
+CP02664,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP02705,SME,Energy & utilities,Rabat-Sale-Kenitra,2021-01,5
+CP00140,Mid-corporate,Wholesale & retail trade,Fez-Meknes,2021-01,2
+CP02309,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,5
+CP01313,Mid-corporate,Business services,Casablanca-Settat,2021-01,9
+CP01845,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP02129,Large corporate,Manufacturing,Casablanca-Settat,2021-01,3
+CP01141,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,8
+CP01431,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP01623,Mid-corporate,Business services,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP00455,Large corporate,Business services,Fez-Meknes,2021-01,12
+CP02821,SME,Business services,Casablanca-Settat,2021-01,8
+CP00576,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,3
+CP02609,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,2
+CP00661,SME,Wholesale & retail trade,Casablanca-Settat,2023-07,1
+CP02229,SME,Construction,Rabat-Sale-Kenitra,2021-01,6
+CP02660,Mid-corporate,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP02815,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,8
+CP01464,Mid-corporate,Wholesale & retail trade,Fez-Meknes,2021-01,6
+CP02326,SME,Construction,Rabat-Sale-Kenitra,2021-01,8
+CP00017,Large corporate,Business services,Tangier-Tetouan-Al Hoceima,2022-07,3
+CP02279,Large corporate,Business services,Casablanca-Settat,2022-02,2
+CP01016,SME,Business services,Casablanca-Settat,2021-01,2
+CP00839,SME,Manufacturing,Casablanca-Settat,2021-01,2
+CP02681,SME,Energy & utilities,Souss-Massa,2021-01,1
+CP00234,Large corporate,Business services,Souss-Massa,2022-02,4
+CP01899,SME,Agriculture & agrifood,Fez-Meknes,2021-01,10
+CP01840,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,8
+CP01775,SME,Energy & utilities,Rabat-Sale-Kenitra,2021-01,4
+CP01074,Mid-corporate,Energy & utilities,Marrakech-Safi,2021-01,12
+CP01600,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP00422,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP00104,Property developer,Real estate development,Souss-Massa,2021-01,11
+CP01219,SME,Transport & logistics,Casablanca-Settat,2021-01,9
+CP00094,Large corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP00054,SME,Construction,Souss-Massa,2021-01,4
+CP01077,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,11
+CP00207,Property developer,Real estate development,Casablanca-Settat,2021-01,2
+CP00942,Mid-corporate,Transport & logistics,Rabat-Sale-Kenitra,2021-01,4
+CP02689,Mid-corporate,Real estate services,Other regions,2022-09,11
+CP00608,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP01830,SME,Business services,Marrakech-Safi,2021-01,7
+CP00561,SME,Transport & logistics,Casablanca-Settat,2021-01,5
+CP01225,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP01876,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,3
+CP02031,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,7
+CP01470,SME,Construction,Casablanca-Settat,2021-01,8
+CP01085,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,9
+CP02233,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP02192,SME,Business services,Rabat-Sale-Kenitra,2021-01,4
+CP00022,Large corporate,Manufacturing,Marrakech-Safi,2021-01,2
+CP01983,Mid-corporate,Business services,Fez-Meknes,2021-01,1
+CP02491,SME,Manufacturing,Casablanca-Settat,2021-01,5
+CP02046,Mid-corporate,Transport & logistics,Rabat-Sale-Kenitra,2022-04,8
+CP02220,Large corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,5
+CP01186,SME,Business services,Rabat-Sale-Kenitra,2021-01,1
+CP01452,SME,Business services,Casablanca-Settat,2021-01,3
+CP00510,SME,Manufacturing,Casablanca-Settat,2021-01,6
+CP02394,SME,Manufacturing,Casablanca-Settat,2021-01,5
+CP00381,Mid-corporate,Business services,Casablanca-Settat,2021-01,10
+CP02193,Property developer,Real estate development,Other regions,2021-01,8
+CP00791,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,12
+CP02184,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,3
+CP01406,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,5
+CP01588,Mid-corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP01471,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,1
+CP01341,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,12
+CP01323,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,6
+CP01484,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP02104,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,4
+CP02958,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,1
+CP00994,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,11
+CP01098,SME,Business services,Other regions,2021-01,8
+CP01179,Mid-corporate,Construction,Marrakech-Safi,2021-01,9
+CP01253,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,7
+CP01758,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,5
+CP02727,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,6
+CP01954,Property developer,Real estate development,Fez-Meknes,2021-01,10
+CP01842,Large corporate,Agriculture & agrifood,Souss-Massa,2021-01,3
+CP01603,SME,Business services,Fez-Meknes,2021-01,5
+CP00503,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP02598,SME,Manufacturing,Marrakech-Safi,2021-01,7
+CP01590,SME,Manufacturing,Souss-Massa,2022-11,12
+CP02081,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP02498,Mid-corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP00589,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,3
+CP00050,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP02753,SME,Manufacturing,Casablanca-Settat,2023-05,4
+CP00293,SME,Business services,Casablanca-Settat,2021-01,5
+CP00820,SME,Wholesale & retail trade,Fez-Meknes,2021-01,11
+CP00692,SME,Construction,Oriental,2023-09,4
+CP02121,SME,Real estate services,Fez-Meknes,2021-05,6
+CP02706,SME,Manufacturing,Casablanca-Settat,2022-07,12
+CP01349,Property developer,Real estate development,Casablanca-Settat,2021-01,4
+CP02289,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP00570,SME,Tourism & hospitality,Fez-Meknes,2021-01,1
+CP02704,Mid-corporate,Business services,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP01727,SME,Construction,Oriental,2021-01,6
+CP02742,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP02518,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,7
+CP01608,SME,Real estate services,Marrakech-Safi,2021-01,6
+CP00930,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,5
+CP02037,Mid-corporate,Energy & utilities,Oriental,2021-01,1
+CP02243,Mid-corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP01231,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,5
+CP02694,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,5
+CP01195,Mid-corporate,Agriculture & agrifood,Souss-Massa,2021-01,4
+CP01048,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP01488,Mid-corporate,Business services,Marrakech-Safi,2021-01,10
+CP01952,Property developer,Real estate development,Marrakech-Safi,2021-01,11
+CP02382,Mid-corporate,Transport & logistics,Rabat-Sale-Kenitra,2021-01,12
+CP01735,Mid-corporate,Manufacturing,Marrakech-Safi,2021-01,8
+CP01528,SME,Real estate services,Souss-Massa,2021-01,5
+CP01174,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,8
+CP02608,Property developer,Real estate development,Marrakech-Safi,2021-01,2
+CP02138,SME,Transport & logistics,Casablanca-Settat,2021-01,10
+CP02724,SME,Transport & logistics,Casablanca-Settat,2021-01,7
+CP01137,SME,Business services,Casablanca-Settat,2021-01,2
+CP00261,SME,Real estate services,Fez-Meknes,2021-01,6
+CP00452,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP01292,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,5
+CP01222,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP00864,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,1
+CP02380,Mid-corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,5
+CP01795,Mid-corporate,Construction,Oriental,2021-01,4
+CP00309,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP01716,Mid-corporate,Business services,Casablanca-Settat,2021-01,4
+CP02650,Mid-corporate,Manufacturing,Other regions,2021-01,4
+CP02966,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,11
+CP02091,SME,Tourism & hospitality,Casablanca-Settat,2021-01,11
+CP02926,Mid-corporate,Manufacturing,Oriental,2021-01,1
+CP02086,SME,Agriculture & agrifood,Souss-Massa,2021-01,2
+CP02923,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP02052,SME,Construction,Rabat-Sale-Kenitra,2021-01,6
+CP00981,Large corporate,Business services,Souss-Massa,2021-01,7
+CP02901,Mid-corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP02962,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP01383,Mid-corporate,Business services,Fez-Meknes,2021-01,3
+CP01792,SME,Construction,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02737,Mid-corporate,Transport & logistics,Rabat-Sale-Kenitra,2021-01,5
+CP00011,Large corporate,Business services,Casablanca-Settat,2021-01,2
+CP01765,Mid-corporate,Manufacturing,Rabat-Sale-Kenitra,2022-02,8
+CP01844,Mid-corporate,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,8
+CP01079,SME,Construction,Casablanca-Settat,2021-01,6
+CP01702,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,12
+CP02039,Large corporate,Construction,Fez-Meknes,2021-01,11
+CP02009,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,1
+CP02369,SME,Manufacturing,Casablanca-Settat,2021-01,11
+CP01029,SME,Business services,Casablanca-Settat,2021-01,1
+CP00880,SME,Manufacturing,Casablanca-Settat,2021-01,6
+CP02567,SME,Manufacturing,Marrakech-Safi,2021-01,11
+CP00430,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,12
+CP00759,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,1
+CP02685,Property developer,Real estate development,Fez-Meknes,2021-01,1
+CP00540,SME,Construction,Casablanca-Settat,2021-01,3
+CP02426,SME,Construction,Casablanca-Settat,2022-11,4
+CP02636,SME,Wholesale & retail trade,Fez-Meknes,2021-01,4
+CP02057,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,6
+CP00353,Large corporate,Transport & logistics,Marrakech-Safi,2021-01,4
+CP01538,SME,Energy & utilities,Fez-Meknes,2021-01,7
+CP01381,Mid-corporate,Transport & logistics,Oriental,2023-08,11
+CP01785,Large corporate,Manufacturing,Casablanca-Settat,2021-01,7
+CP02290,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,4
+CP00652,Mid-corporate,Business services,Marrakech-Safi,2021-01,7
+CP01833,Property developer,Real estate development,Casablanca-Settat,2021-05,8
+CP02579,SME,Business services,Souss-Massa,2021-01,11
+CP00006,SME,Manufacturing,Casablanca-Settat,2022-07,12
+CP00978,Property developer,Real estate development,Souss-Massa,2021-01,4
+CP01022,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00823,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,10
+CP02629,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,2
+CP01007,SME,Wholesale & retail trade,Souss-Massa,2021-01,7
+CP02684,Large corporate,Construction,Rabat-Sale-Kenitra,2021-01,2
+CP01964,SME,Manufacturing,Casablanca-Settat,2021-10,6
+CP01233,SME,Manufacturing,Casablanca-Settat,2022-04,1
+CP00655,Mid-corporate,Tourism & hospitality,Marrakech-Safi,2021-01,4
+CP02845,Property developer,Real estate development,Casablanca-Settat,2021-01,8
+CP01366,Large corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP00752,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP02237,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,5
+CP01479,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,7
+CP02417,Property developer,Real estate development,Casablanca-Settat,2021-01,10
+CP01254,SME,Business services,Oriental,2021-01,2
+CP00233,Mid-corporate,Agriculture & agrifood,Fez-Meknes,2021-01,6
+CP00601,SME,Manufacturing,Casablanca-Settat,2021-01,3
+CP00859,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,2
+CP00161,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,2
+CP02791,SME,Wholesale & retail trade,Oriental,2021-01,10
+CP01255,SME,Manufacturing,Casablanca-Settat,2021-01,12
+CP00267,Large corporate,Real estate services,Rabat-Sale-Kenitra,2021-01,8
+CP00715,SME,Manufacturing,Souss-Massa,2021-01,5
+CP00933,SME,Manufacturing,Casablanca-Settat,2021-01,12
+CP00600,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,6
+CP02976,SME,Agriculture & agrifood,Casablanca-Settat,2022-03,7
+CP00127,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP01459,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,8
+CP01639,SME,Wholesale & retail trade,Oriental,2021-01,6
+CP02836,Mid-corporate,Business services,Casablanca-Settat,2021-01,6
+CP02399,Property developer,Real estate development,Casablanca-Settat,2021-01,4
+CP00701,SME,Energy & utilities,Fez-Meknes,2021-01,9
+CP01870,Property developer,Real estate development,Fez-Meknes,2021-01,9
+CP02318,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP00801,Large corporate,Real estate services,Marrakech-Safi,2021-01,9
+CP02284,Mid-corporate,Transport & logistics,Casablanca-Settat,2022-04,2
+CP01906,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP02831,Mid-corporate,Transport & logistics,Casablanca-Settat,2022-10,12
+CP01781,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,9
+CP00629,SME,Wholesale & retail trade,Souss-Massa,2021-01,9
+CP01581,Property developer,Real estate development,Marrakech-Safi,2021-01,11
+CP00785,Mid-corporate,Business services,Casablanca-Settat,2022-10,8
+CP01977,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP02030,SME,Agriculture & agrifood,Oriental,2021-01,6
+CP01967,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP00067,SME,Construction,Casablanca-Settat,2022-12,9
+CP00617,SME,Real estate services,Casablanca-Settat,2021-01,7
+CP01752,SME,Tourism & hospitality,Casablanca-Settat,2021-01,2
+CP00222,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP00290,SME,Agriculture & agrifood,Other regions,2021-01,4
+CP02626,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,5
+CP00247,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,2
+CP00638,Property developer,Real estate development,Marrakech-Safi,2021-01,3
+CP00010,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,2
+CP00955,SME,Business services,Marrakech-Safi,2021-01,2
+CP02231,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP01576,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP01428,SME,Construction,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP01164,Mid-corporate,Wholesale & retail trade,Marrakech-Safi,2021-01,11
+CP01008,Property developer,Real estate development,Marrakech-Safi,2021-01,3
+CP02124,SME,Business services,Marrakech-Safi,2022-04,6
+CP02974,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,10
+CP00929,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP01117,SME,Wholesale & retail trade,Marrakech-Safi,2023-11,11
+CP00384,SME,Business services,Casablanca-Settat,2021-01,6
+CP00592,SME,Manufacturing,Fez-Meknes,2021-01,3
+CP01715,Mid-corporate,Energy & utilities,Casablanca-Settat,2022-02,2
+CP00259,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2022-12,9
+CP00347,Mid-corporate,Manufacturing,Fez-Meknes,2021-01,1
+CP02678,SME,Manufacturing,Casablanca-Settat,2021-07,6
+CP02139,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,5
+CP00900,SME,Manufacturing,Casablanca-Settat,2021-01,12
+CP01460,SME,Business services,Souss-Massa,2021-01,12
+CP02890,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,6
+CP01061,Mid-corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP01742,Property developer,Real estate development,Marrakech-Safi,2021-01,5
+CP00134,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP00888,Mid-corporate,Construction,Oriental,2021-01,4
+CP01490,Mid-corporate,Tourism & hospitality,Fez-Meknes,2021-01,9
+CP02067,Large corporate,Transport & logistics,Casablanca-Settat,2021-01,11
+CP00223,SME,Wholesale & retail trade,Oriental,2021-01,3
+CP02116,Mid-corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,3
+CP01122,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,5
+CP01476,Large corporate,Business services,Casablanca-Settat,2021-01,10
+CP02663,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2022-11,8
+CP01188,Property developer,Real estate development,Casablanca-Settat,2023-08,3
+CP02893,SME,Business services,Rabat-Sale-Kenitra,2021-01,5
+CP02267,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP00931,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,12
+CP00496,SME,Business services,Casablanca-Settat,2021-01,6
+CP02065,SME,Business services,Fez-Meknes,2021-01,1
+CP01417,SME,Real estate services,Casablanca-Settat,2021-01,2
+CP01685,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,1
+CP00378,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,2
+CP01606,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,5
+CP00133,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP01722,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,4
+CP00730,Property developer,Real estate development,Casablanca-Settat,2021-01,10
+CP01843,Mid-corporate,Agriculture & agrifood,Fez-Meknes,2021-01,6
+CP02646,SME,Construction,Rabat-Sale-Kenitra,2021-01,9
+CP01620,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,7
+CP01968,Property developer,Real estate development,Marrakech-Safi,2021-01,3
+CP01773,SME,Energy & utilities,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00113,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP00028,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,11
+CP01139,Property developer,Real estate development,Casablanca-Settat,2021-01,2
+CP01352,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,11
+CP02178,Mid-corporate,Construction,Casablanca-Settat,2021-01,9
+CP00302,SME,Energy & utilities,Casablanca-Settat,2021-01,3
+CP01599,Mid-corporate,Energy & utilities,Other regions,2021-05,10
+CP01871,SME,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP02479,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,11
+CP00732,Mid-corporate,Construction,Casablanca-Settat,2021-01,3
+CP01969,SME,Agriculture & agrifood,Marrakech-Safi,2021-01,11
+CP01379,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP01568,SME,Business services,Casablanca-Settat,2021-01,5
+CP02238,Property developer,Real estate development,Casablanca-Settat,2021-09,5
+CP00984,Large corporate,Business services,Marrakech-Safi,2022-08,4
+CP00766,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP02537,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,11
+CP02211,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,11
+CP01770,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP02311,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,2
+CP00749,Large corporate,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP00420,Large corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,8
+CP02871,Property developer,Real estate development,Marrakech-Safi,2021-01,4
+CP00959,Large corporate,Wholesale & retail trade,Souss-Massa,2021-01,10
+CP00887,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP02875,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,3
+CP01759,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,9
+CP02323,Mid-corporate,Construction,Casablanca-Settat,2021-01,10
+CP01492,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,12
+CP02114,Mid-corporate,Business services,Casablanca-Settat,2021-01,9
+CP02763,SME,Business services,Souss-Massa,2021-01,5
+CP01933,SME,Construction,Casablanca-Settat,2021-01,12
+CP00717,SME,Wholesale & retail trade,Fez-Meknes,2021-01,4
+CP01143,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2022-06,10
+CP02619,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,5
+CP02796,Property developer,Real estate development,Casablanca-Settat,2021-01,12
+CP01401,Mid-corporate,Construction,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP00604,SME,Manufacturing,Casablanca-Settat,2021-01,8
+CP01012,SME,Business services,Rabat-Sale-Kenitra,2021-01,3
+CP02675,SME,Manufacturing,Casablanca-Settat,2023-04,3
+CP00227,SME,Business services,Casablanca-Settat,2021-01,12
+CP02153,Large corporate,Construction,Rabat-Sale-Kenitra,2021-01,10
+CP00848,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,7
+CP01951,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,11
+CP00562,Mid-corporate,Business services,Other regions,2021-01,10
+CP02533,Mid-corporate,Business services,Casablanca-Settat,2021-01,5
+CP00533,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP02078,SME,Agriculture & agrifood,Casablanca-Settat,2021-07,10
+CP01866,Property developer,Real estate development,Casablanca-Settat,2021-01,6
+CP02507,Mid-corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2022-02,1
+CP00808,Mid-corporate,Construction,Casablanca-Settat,2022-06,9
+CP01657,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2022-06,5
+CP00236,Large corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2023-05,5
+CP00731,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP00822,SME,Wholesale & retail trade,Oriental,2021-01,10
+CP00394,Large corporate,Agriculture & agrifood,Other regions,2021-01,2
+CP01290,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,10
+CP02710,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP00739,Property developer,Real estate development,Casablanca-Settat,2021-01,7
+CP00996,SME,Energy & utilities,Casablanca-Settat,2021-01,11
+CP01602,Mid-corporate,Business services,Rabat-Sale-Kenitra,2021-01,3
+CP00296,SME,Manufacturing,Rabat-Sale-Kenitra,2021-01,3
+CP00257,SME,Business services,Rabat-Sale-Kenitra,2021-01,12
+CP02610,Large corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,5
+CP01346,SME,Construction,Casablanca-Settat,2021-01,12
+CP01776,SME,Tourism & hospitality,Other regions,2021-01,5
+CP01009,SME,Manufacturing,Souss-Massa,2021-01,8
+CP01429,SME,Manufacturing,Casablanca-Settat,2021-01,7
+CP01486,Large corporate,Business services,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP02686,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,7
+CP02954,SME,Energy & utilities,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP00750,Mid-corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP01761,SME,Transport & logistics,Souss-Massa,2021-05,5
+CP02864,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,6
+CP00649,SME,Transport & logistics,Casablanca-Settat,2021-09,6
+CP02775,SME,Wholesale & retail trade,Other regions,2021-01,10
+CP01656,SME,Tourism & hospitality,Casablanca-Settat,2021-01,1
+CP01738,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-04,7
+CP00115,SME,Energy & utilities,Marrakech-Safi,2021-01,7
+CP00327,SME,Manufacturing,Marrakech-Safi,2021-01,10
+CP02955,Large corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP00813,Mid-corporate,Business services,Marrakech-Safi,2021-01,6
+CP02690,SME,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP02094,Large corporate,Transport & logistics,Casablanca-Settat,2021-01,5
+CP00926,Large corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,4
+CP02868,SME,Manufacturing,Marrakech-Safi,2023-09,3
+CP01408,Mid-corporate,Agriculture & agrifood,Fez-Meknes,2023-09,9
+CP02483,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,6
+CP01774,Mid-corporate,Construction,Casablanca-Settat,2021-01,10
+CP02828,SME,Construction,Marrakech-Safi,2021-01,2
+CP00459,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,12
+CP00653,SME,Business services,Casablanca-Settat,2022-06,6
+CP02613,SME,Energy & utilities,Fez-Meknes,2021-01,4
+CP00928,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,5
+CP00909,SME,Manufacturing,Casablanca-Settat,2021-01,11
+CP01666,Large corporate,Tourism & hospitality,Casablanca-Settat,2021-01,9
+CP00658,Property developer,Real estate development,Casablanca-Settat,2021-01,3
+CP00956,Large corporate,Business services,Marrakech-Safi,2021-01,12
+CP02516,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,2
+CP01376,Large corporate,Manufacturing,Casablanca-Settat,2021-01,4
+CP01658,SME,Energy & utilities,Casablanca-Settat,2021-01,9
+CP00142,SME,Transport & logistics,Casablanca-Settat,2021-01,7
+CP02106,Large corporate,Construction,Casablanca-Settat,2023-03,6
+CP01547,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,12
+CP01489,SME,Construction,Rabat-Sale-Kenitra,2021-01,10
+CP01042,SME,Construction,Casablanca-Settat,2021-01,12
+CP01443,Large corporate,Business services,Casablanca-Settat,2021-01,4
+CP02560,Mid-corporate,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,11
+CP02145,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,3
+CP02378,Property developer,Real estate development,Casablanca-Settat,2021-07,10
+CP01827,SME,Transport & logistics,Casablanca-Settat,2021-01,7
+CP01665,SME,Construction,Casablanca-Settat,2021-01,8
+CP01477,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,2
+CP02682,Property developer,Real estate development,Marrakech-Safi,2022-11,11
+CP02163,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,4
+CP01559,SME,Real estate services,Marrakech-Safi,2022-01,8
+CP01437,SME,Business services,Marrakech-Safi,2023-10,2
+CP00830,Large corporate,Manufacturing,Casablanca-Settat,2021-01,12
+CP00154,SME,Manufacturing,Casablanca-Settat,2021-01,4
+CP01300,SME,Transport & logistics,Casablanca-Settat,2023-08,10
+CP00908,Property developer,Real estate development,Casablanca-Settat,2021-01,10
+CP01912,SME,Construction,Rabat-Sale-Kenitra,2021-01,7
+CP02058,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,2
+CP00700,SME,Business services,Fez-Meknes,2021-01,4
+CP02886,Large corporate,Construction,Rabat-Sale-Kenitra,2021-01,8
+CP02736,SME,Construction,Marrakech-Safi,2021-04,7
+CP01788,SME,Transport & logistics,Marrakech-Safi,2021-01,8
+CP00733,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,3
+CP00081,Mid-corporate,Transport & logistics,Souss-Massa,2021-01,7
+CP01355,Mid-corporate,Agriculture & agrifood,Other regions,2023-08,2
+CP01587,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,6
+CP01589,SME,Energy & utilities,Casablanca-Settat,2021-01,2
+CP00268,Property developer,Real estate development,Casablanca-Settat,2021-01,8
+CP02600,SME,Wholesale & retail trade,Casablanca-Settat,2022-04,7
+CP00548,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,11
+CP00231,Mid-corporate,Business services,Casablanca-Settat,2021-01,6
+CP00901,SME,Energy & utilities,Rabat-Sale-Kenitra,2021-01,2
+CP02842,SME,Manufacturing,Marrakech-Safi,2021-01,3
+CP00783,SME,Real estate services,Casablanca-Settat,2021-01,10
+CP01320,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,12
+CP01979,SME,Business services,Casablanca-Settat,2021-01,1
+CP00367,Mid-corporate,Energy & utilities,Marrakech-Safi,2021-01,9
+CP00748,Mid-corporate,Wholesale & retail trade,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP00307,SME,Business services,Casablanca-Settat,2021-01,4
+CP02895,Large corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP02572,SME,Business services,Casablanca-Settat,2021-01,12
+CP01086,Mid-corporate,Energy & utilities,Marrakech-Safi,2023-04,3
+CP02621,SME,Business services,Rabat-Sale-Kenitra,2021-01,11
+CP00549,Mid-corporate,Construction,Casablanca-Settat,2021-01,2
+CP00388,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-09,9
+CP02778,SME,Real estate services,Fez-Meknes,2021-01,1
+CP00080,SME,Real estate services,Marrakech-Safi,2021-01,1
+CP01539,SME,Real estate services,Rabat-Sale-Kenitra,2021-01,1
+CP01155,SME,Construction,Marrakech-Safi,2021-01,10
+CP02130,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,7
+CP02430,Large corporate,Business services,Marrakech-Safi,2021-01,9
+CP01058,SME,Business services,Fez-Meknes,2021-01,2
+CP01706,Property developer,Real estate development,Casablanca-Settat,2022-01,12
+CP02829,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP02404,Large corporate,Manufacturing,Casablanca-Settat,2021-01,6
+CP02224,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,11
+CP02469,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,2
+CP02952,SME,Construction,Casablanca-Settat,2021-01,4
+CP02750,Mid-corporate,Construction,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP02435,Property developer,Real estate development,Casablanca-Settat,2021-01,2
+CP00945,SME,Business services,Casablanca-Settat,2021-01,11
+CP00844,SME,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,5
+CP02859,SME,Wholesale & retail trade,Casablanca-Settat,2021-07,8
+CP02393,Property developer,Real estate development,Rabat-Sale-Kenitra,2023-04,11
+CP01834,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,10
+CP00613,Mid-corporate,Agriculture & agrifood,Other regions,2021-08,5
+CP02990,Large corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2023-02,5
+CP02810,Property developer,Real estate development,Casablanca-Settat,2021-01,2
+CP02916,SME,Transport & logistics,Casablanca-Settat,2021-01,10
+CP01267,Mid-corporate,Transport & logistics,Oriental,2021-01,12
+CP01884,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP00243,SME,Tourism & hospitality,Marrakech-Safi,2021-01,6
+CP01301,Mid-corporate,Manufacturing,Tangier-Tetouan-Al Hoceima,2023-06,11
+CP00149,SME,Construction,Casablanca-Settat,2021-01,5
+CP01515,Mid-corporate,Business services,Rabat-Sale-Kenitra,2022-06,5
+CP00734,SME,Tourism & hospitality,Marrakech-Safi,2021-01,11
+CP02603,SME,Business services,Fez-Meknes,2021-01,5
+CP00878,SME,Construction,Casablanca-Settat,2023-05,12
+CP00331,SME,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP00087,SME,Real estate services,Casablanca-Settat,2021-01,6
+CP00904,Mid-corporate,Wholesale & retail trade,Oriental,2021-01,6
+CP02903,SME,Transport & logistics,Casablanca-Settat,2021-01,4
+CP02979,SME,Manufacturing,Marrakech-Safi,2021-01,12
+CP01945,Mid-corporate,Business services,Casablanca-Settat,2021-01,6
+CP00745,Mid-corporate,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP02411,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP02612,Property developer,Real estate development,Casablanca-Settat,2021-01,5
+CP01790,SME,Wholesale & retail trade,Fez-Meknes,2021-01,6
+CP00442,Large corporate,Transport & logistics,Souss-Massa,2021-01,7
+CP02909,SME,Business services,Fez-Meknes,2021-01,3
+CP01562,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,4
+CP02879,Property developer,Real estate development,Marrakech-Safi,2021-09,8
+CP01953,Large corporate,Business services,Rabat-Sale-Kenitra,2022-01,4
+CP02991,Mid-corporate,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,10
+CP00114,Mid-corporate,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,6
+CP00518,SME,Energy & utilities,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP01907,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,3
+CP01910,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,11
+CP02470,Property developer,Real estate development,Casablanca-Settat,2022-08,6
+CP01119,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,2
+CP00941,SME,Business services,Casablanca-Settat,2021-11,9
+CP01360,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,3
+CP02725,SME,Tourism & hospitality,Marrakech-Safi,2021-01,2
+CP01939,SME,Business services,Rabat-Sale-Kenitra,2021-01,7
+CP00136,SME,Business services,Casablanca-Settat,2021-01,10
+CP01088,Mid-corporate,Transport & logistics,Marrakech-Safi,2021-01,4
+CP02729,SME,Construction,Souss-Massa,2021-01,8
+CP01672,SME,Business services,Souss-Massa,2021-01,1
+CP00429,SME,Tourism & hospitality,Fez-Meknes,2022-08,3
+CP00596,Large corporate,Construction,Other regions,2021-01,10
+CP02120,Mid-corporate,Business services,Rabat-Sale-Kenitra,2023-10,1
+CP01605,SME,Business services,Oriental,2021-01,5
+CP01680,SME,Tourism & hospitality,Oriental,2021-01,7
+CP02925,Mid-corporate,Business services,Casablanca-Settat,2021-01,1
+CP01304,SME,Wholesale & retail trade,Fez-Meknes,2021-01,12
+CP02022,Mid-corporate,Manufacturing,Marrakech-Safi,2021-01,7
+CP02997,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,5
+CP02910,Property developer,Real estate development,Souss-Massa,2021-01,12
+CP02079,SME,Business services,Casablanca-Settat,2023-10,7
+CP01289,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,9
+CP02688,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP02371,Property developer,Real estate development,Marrakech-Safi,2021-01,2
+CP00165,Property developer,Real estate development,Fez-Meknes,2021-01,1
+CP02865,Mid-corporate,Manufacturing,Fez-Meknes,2021-01,7
+CP01393,SME,Business services,Marrakech-Safi,2021-01,11
+CP02983,SME,Manufacturing,Oriental,2021-08,11
+CP02862,Large corporate,Tourism & hospitality,Casablanca-Settat,2023-06,7
+CP02381,Mid-corporate,Business services,Oriental,2021-01,1
+CP00627,SME,Business services,Casablanca-Settat,2022-03,8
+CP02790,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,8
+CP00674,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP01512,Large corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,9
+CP01690,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-04,7
+CP02330,Mid-corporate,Construction,Casablanca-Settat,2021-01,9
+CP01564,Mid-corporate,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP01247,SME,Tourism & hospitality,Marrakech-Safi,2021-01,2
+CP01739,SME,Tourism & hospitality,Casablanca-Settat,2021-01,1
+CP00432,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-04,11
+CP01648,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,6
+CP00693,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP02712,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,4
+CP01886,SME,Agriculture & agrifood,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP00079,SME,Wholesale & retail trade,Marrakech-Safi,2022-07,12
+CP02732,Mid-corporate,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-06,1
+CP02340,SME,Real estate services,Fez-Meknes,2021-01,3
+CP01400,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,6
+CP00525,Mid-corporate,Manufacturing,Marrakech-Safi,2022-08,5
+CP01901,SME,Business services,Other regions,2022-07,1
+CP01151,SME,Real estate services,Casablanca-Settat,2021-01,4
+CP02125,SME,Transport & logistics,Casablanca-Settat,2021-01,10
+CP02812,Large corporate,Construction,Casablanca-Settat,2021-01,4
+CP01743,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP00597,Mid-corporate,Construction,Rabat-Sale-Kenitra,2021-01,5
+CP00885,Property developer,Real estate development,Casablanca-Settat,2021-01,1
+CP02215,Mid-corporate,Agriculture & agrifood,Souss-Massa,2021-01,2
+CP01483,SME,Tourism & hospitality,Oriental,2021-01,10
+CP02266,Mid-corporate,Agriculture & agrifood,Casablanca-Settat,2021-12,5
+CP01165,SME,Manufacturing,Casablanca-Settat,2021-01,12
+CP01060,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,10
+CP00547,SME,Construction,Casablanca-Settat,2021-01,1
+CP01536,SME,Agriculture & agrifood,Fez-Meknes,2021-01,4
+CP01550,SME,Business services,Tangier-Tetouan-Al Hoceima,2022-08,9
+CP00008,SME,Business services,Casablanca-Settat,2021-01,1
+CP02443,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,12
+CP02883,SME,Transport & logistics,Casablanca-Settat,2023-04,2
+CP02920,Mid-corporate,Business services,Casablanca-Settat,2021-01,10
+CP01646,Property developer,Real estate development,Casablanca-Settat,2021-01,11
+CP02101,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP02432,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,10
+CP02102,SME,Wholesale & retail trade,Fez-Meknes,2021-01,11
+CP02971,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP01059,SME,Manufacturing,Marrakech-Safi,2021-01,9
+CP01442,SME,Manufacturing,Casablanca-Settat,2021-01,5
+CP00524,SME,Tourism & hospitality,Casablanca-Settat,2021-01,4
+CP01724,SME,Agriculture & agrifood,Fez-Meknes,2021-01,11
+CP01516,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,3
+CP02068,SME,Business services,Casablanca-Settat,2021-01,5
+CP01532,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2022-10,7
+CP02985,SME,Wholesale & retail trade,Marrakech-Safi,2021-07,5
+CP02105,SME,Manufacturing,Souss-Massa,2021-01,5
+CP00502,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP00990,SME,Real estate services,Casablanca-Settat,2021-01,4
+CP02013,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,12
+CP01970,SME,Construction,Casablanca-Settat,2021-01,3
+CP01850,SME,Manufacturing,Casablanca-Settat,2021-01,5
+CP01147,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,11
+CP01546,SME,Transport & logistics,Marrakech-Safi,2021-01,6
+CP00571,SME,Construction,Casablanca-Settat,2021-01,9
+CP01682,SME,Real estate services,Marrakech-Safi,2023-07,8
+CP02458,Property developer,Real estate development,Marrakech-Safi,2021-01,4
+CP01731,Mid-corporate,Tourism & hospitality,Marrakech-Safi,2021-01,9
+CP00776,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,3
+CP02814,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP02855,SME,Business services,Casablanca-Settat,2021-01,2
+CP00040,Property developer,Real estate development,Casablanca-Settat,2021-01,9
+CP00099,SME,Transport & logistics,Casablanca-Settat,2021-01,2
+CP02634,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,11
+CP00145,SME,Construction,Casablanca-Settat,2021-01,8
+CP00310,SME,Transport & logistics,Casablanca-Settat,2021-01,1
+CP02499,Property developer,Real estate development,Souss-Massa,2021-01,2
+CP01097,SME,Manufacturing,Marrakech-Safi,2023-03,3
+CP01416,Property developer,Real estate development,Casablanca-Settat,2021-01,12
+CP00048,SME,Wholesale & retail trade,Oriental,2021-01,8
+CP02978,Mid-corporate,Transport & logistics,Casablanca-Settat,2021-01,4
+CP01783,Property developer,Real estate development,Casablanca-Settat,2021-01,4
+CP01243,SME,Agriculture & agrifood,Fez-Meknes,2021-01,1
+CP00301,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,3
+CP00108,Mid-corporate,Manufacturing,Casablanca-Settat,2021-01,11
+CP00479,Mid-corporate,Real estate services,Casablanca-Settat,2021-01,8
+CP01511,SME,Manufacturing,Rabat-Sale-Kenitra,2021-04,5
+CP01868,SME,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP01357,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2022-10,5
+CP02854,SME,Manufacturing,Rabat-Sale-Kenitra,2021-10,5
+CP01033,SME,Agriculture & agrifood,Casablanca-Settat,2022-02,2
+CP00857,SME,Business services,Rabat-Sale-Kenitra,2021-01,8
+CP02448,Large corporate,Business services,Casablanca-Settat,2022-11,8
+CP01125,SME,Transport & logistics,Fez-Meknes,2021-01,12
+CP02799,Mid-corporate,Wholesale & retail trade,Marrakech-Safi,2022-09,5
+CP00314,Property developer,Real estate development,Casablanca-Settat,2021-01,4
+CP02332,SME,Construction,Marrakech-Safi,2021-01,10
+CP01526,SME,Business services,Casablanca-Settat,2021-01,5
+CP01814,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP01412,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,9
+CP00706,Mid-corporate,Manufacturing,Rabat-Sale-Kenitra,2021-01,11
+CP01554,Mid-corporate,Transport & logistics,Marrakech-Safi,2021-01,4
+CP02096,Mid-corporate,Transport & logistics,Oriental,2021-01,8
+CP02016,SME,Transport & logistics,Casablanca-Settat,2021-01,2
+CP02128,Mid-corporate,Construction,Casablanca-Settat,2021-01,10
+CP00676,Mid-corporate,Real estate services,Tangier-Tetouan-Al Hoceima,2021-01,1
+CP00998,SME,Manufacturing,Casablanca-Settat,2021-01,9
+CP01520,Mid-corporate,Wholesale & retail trade,Casablanca-Settat,2021-01,3
+CP01794,Property developer,Real estate development,Oriental,2021-01,6
+CP00270,Mid-corporate,Manufacturing,Fez-Meknes,2021-01,1
+CP02223,SME,Agriculture & agrifood,Oriental,2021-01,9
+CP01084,SME,Manufacturing,Casablanca-Settat,2022-05,6
+CP02348,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,8
+CP02816,SME,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,5
+CP02048,SME,Transport & logistics,Souss-Massa,2021-01,1
+CP00186,Property developer,Real estate development,Casablanca-Settat,2021-02,7
+CP00453,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,9
+CP02512,Large corporate,Manufacturing,Casablanca-Settat,2021-01,8
+CP01852,SME,Transport & logistics,Marrakech-Safi,2021-01,4
+CP02032,SME,Construction,Marrakech-Safi,2021-01,9
+CP01445,SME,Manufacturing,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP00585,SME,Construction,Casablanca-Settat,2022-11,3
+CP00411,Mid-corporate,Business services,Marrakech-Safi,2022-05,2
+CP00884,Property developer,Real estate development,Rabat-Sale-Kenitra,2021-01,4
+CP01664,Large corporate,Agriculture & agrifood,Casablanca-Settat,2021-01,1
+CP00124,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,9
+CP02715,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2023-06,1
+CP01426,SME,Wholesale & retail trade,Casablanca-Settat,2022-01,1
+CP02535,Property developer,Real estate development,Oriental,2021-01,2
+CP00123,SME,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,4
+CP01491,SME,Agriculture & agrifood,Casablanca-Settat,2021-01,1
+CP00299,SME,Tourism & hospitality,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP02247,SME,Construction,Tangier-Tetouan-Al Hoceima,2021-01,2
+CP01325,SME,Business services,Casablanca-Settat,2021-01,10
+CP02438,Property developer,Real estate development,Tangier-Tetouan-Al Hoceima,2021-01,7
+CP01919,Mid-corporate,Construction,Casablanca-Settat,2021-01,2
+CP01670,Property developer,Real estate development,Casablanca-Settat,2022-08,5
+CP01159,SME,Tourism & hospitality,Marrakech-Safi,2021-01,2
+CP02606,Mid-corporate,Wholesale & retail trade,Rabat-Sale-Kenitra,2021-01,12
+CP02324,SME,Business services,Casablanca-Settat,2021-01,8
+CP01111,SME,Manufacturing,Casablanca-Settat,2021-01,10
+CP00667,SME,Business services,Rabat-Sale-Kenitra,2021-01,5
+CP01501,SME,Wholesale & retail trade,Casablanca-Settat,2021-01,2
+CP02364,Mid-corporate,Agriculture & agrifood,Souss-Massa,2021-01,3
+CP02505,SME,Business services,Rabat-Sale-Kenitra,2021-01,6
+CP02316,SME,Wholesale & retail trade,Fez-Meknes,2021-01,10
+CP00415,Mid-corporate,Construction,Casablanca-Settat,2021-01,6
+CP02953,SME,Tourism & hospitality,Fez-Meknes,2023-07,12
+CP02011,Property developer,Real estate development,Casablanca-Settat,2021-01,5
+CP02485,SME,Real estate services,Casablanca-Settat,2021-01,3
+CP00361,Large corporate,Manufacturing,Casablanca-Settat,2021-01,6
+CP02818,Mid-corporate,Business services,Casablanca-Settat,2023-03,2
+CP01315,Mid-corporate,Wholesale & retail trade,Souss-Massa,2021-01,9
+CP02071,Mid-corporate,Manufacturing,Marrakech-Safi,2021-01,2
+CP01465,Large corporate,Business services,Tangier-Tetouan-Al Hoceima,2021-01,8
+CP00543,Mid-corporate,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,5
+CP02773,SME,Tourism & hospitality,Rabat-Sale-Kenitra,2021-01,5
+CP00711,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2023-05,8
+CP02951,Mid-corporate,Wholesale & retail trade,Fez-Meknes,2021-01,9
+CP00045,SME,Business services,Tangier-Tetouan-Al Hoceima,2021-01,12
+CP00729,SME,Wholesale & retail trade,Marrakech-Safi,2021-01,4
+CP01409,SME,Construction,Casablanca-Settat,2021-01,10
+CP02679,SME,Wholesale & retail trade,Other regions,2021-01,11
+CP02765,SME,Real estate services,Casablanca-Settat,2021-01,12
+CP02768,Mid-corporate,Tourism & hospitality,Casablanca-Settat,2021-01,12
+CP01156,Mid-corporate,Manufacturing,Souss-Massa,2021-01,10
+CP02866,Large corporate,Business services,Casablanca-Settat,2022-08,4
+CP02584,SME,Real estate services,Casablanca-Settat,2021-01,9
+CP00882,SME,Energy & utilities,Casablanca-Settat,2021-01,10
+CP00842,Mid-corporate,Agriculture & agrifood,Rabat-Sale-Kenitra,2021-01,4
+CP02160,SME,Wholesale & retail trade,Souss-Massa,2021-01,10
+CP02239,Mid-corporate,Agriculture & agrifood,Fez-Meknes,2021-01,9
+CP01116,SME,Transport & logistics,Rabat-Sale-Kenitra,2021-01,6
+CP00498,Property developer,Real estate development,Other regions,2022-08,11
+CP02387,SME,Transport & logistics,Tangier-Tetouan-Al Hoceima,2021-01,2

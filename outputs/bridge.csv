@@ -1,0 +1,8 @@
+item,mad_m,kind
+Local provisions (individual accounts),3030.341273986267,total
+"Healthy names: 12-month / lifetime ECL, no local provision",744.7644153076673,step
+Sensitive names: lifetime ECL vs 10% local,197.91277639208863,step
+Pre-doubtful: LGD-based ECL vs 20% local,123.11922088126992,step
+Doubtful: LGD-based ECL vs 50% local,388.62863126054333,step
+Compromised: LGD-based ECL vs 100% local,-180.00426853027443,step
+IFRS 9 ECL (consolidated accounts),4304.762049297562,total
